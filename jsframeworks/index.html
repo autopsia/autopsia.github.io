@@ -117,46 +117,34 @@ var destruir = function() {
 
 // pintar logo
 
-var logoAnimation = anime.timeline({
+var animacionLogo = anime.timeline({
   direction: 'alternate',
-  loop: true
+  loop: false
 });
 
-logoAnimation.add([
+animacionLogo.add([
   {
-    targets: '.stripes path',
-    translateX: [-1000, 0],
+    targets: '#sectorA path',
+    translateX: [-2000, 0],
     opacity: {
       value: 1,
       duration: 100
     },
-    fill: '#F9C100',
+    fill: '#FFF',
     delay: (el, i) => 2200 + (i * 75),
     duration: 400,
     easing: 'easeOutExpo',
     offset: 0
   }, {
-    targets: '.katakana path',
-    d: (el) => el.getAttribute('data-d'),
-    opacity: {
-      value: [0, 1],
-      duration: 100
-    },
-    fill: '#F9C100',
-    delay: (el, i) => 2400 + (i * 120),
-    duration: 1200,
-    easing: 'easeOutCirc',
-    offset: 0
-  }, {
-    targets: '.text-fills path',
+    targets: '#defectuosoA path',
     opacity: [0, 1],
-    fill: '#F9C100',
+    fill: '#FFF',
     easing: 'easeOutExpo',
     duration: 200,
     delay: (t, i) => 3300 + (anime.random(0, 450)),
     offset: 0
   }, {
-    targets: '.line',
+    targets: '.logo',
     translateX: (target) => {
       let x = 1200;
       let translate;
