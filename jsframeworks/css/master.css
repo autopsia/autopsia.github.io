@@ -1,11 +1,15 @@
 .logo{
   height: 200px;
+  width: auto;
+  float: left;
 }
 .sectorC{
   height: 100px;
+  width: auto;
 }
 .defectuosoC{
   height: 100px;
+  width: auto;
 }
 .st0{
   fill:none;
@@ -14,13 +18,13 @@
 }
 svg.relativo{
   position: relative;
-  display: block;
+  display: inline;
   margin: auto
 }
 .centrarlogo{
-	max-width: 900px;
 	text-align: center;
-	margin: auto;
+
+	width: 680px;
 }
 
 html, body {
@@ -35,4 +39,5 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction:row;
 }
