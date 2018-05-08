@@ -90,6 +90,30 @@ delay: function(el, i) { return i * 250 },
 direction: 'alternate',
 loop: false
 });
+var vibrate = function() {
+  anime({
+    targets: 'g',
+    translateX: ['-.25rem', '.25rem'],
+    duration: 50,    
+    direction: 'alternate',
+    loop: 10,
+    easing: 'easeOutBack',
+  });
+  anime({
+    targets: 'path',
+    translateX: function() { return anime.random(-10, 10) + 'rem'; },
+    translateY: function() { return anime.random(-3, 5) + 'rem'; },
+    scale: function() { return anime.random(10,20) / 10; },
+    rotate: function() { return anime.random(-360,360); },
+    duration: function() { return anime.random(800,1200); },
+    easing: 'easeInOutQuart',
+    direction: 'alternate',
+    delay: 400,
+    complete: vibrate
+  });
+}
+
+vibrate();
 </script>
 </body>
 </html>
