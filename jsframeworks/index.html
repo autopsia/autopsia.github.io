@@ -5,7 +5,7 @@
 	<link rel="stylesheet" href="css/master.css">
 </head>
 <body>
-	<div class="centrarlogo">
+	<div onclick="destruir()" class="centrarlogo">
 <div id="lineDrawing">
 	<svg class="logo relativo" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
@@ -67,7 +67,7 @@
   targets: '#lineDrawing .lines path',
   strokeDashoffset: [anime.setDashoffset, 0],
   easing: 'easeInOutSine',
-  duration: 3500,
+  duration: 4000,
   delay: function(el, i) { return i * 250 },
   direction: 'alternate',
   loop: false
@@ -76,10 +76,10 @@ var sectorA = anime({
 targets: '#sectorA .lines path',
 strokeDashoffset: [anime.setDashoffset, 0],
 easing: 'easeInOutSine',
-duration: 3500,
+duration: 4000,
 delay: function(el, i) { return i * 250 },
 direction: 'alternate',
-loop: false
+loop: true
 });
 var defectuosoA = anime({
 targets: '#defectuosoA .lines path',
@@ -88,9 +88,9 @@ easing: 'easeInOutSine',
 duration: 3500,
 delay: function(el, i) { return i * 250 },
 direction: 'alternate',
-loop: false
+loop: true
 });
-var vibrate = function() {
+var destruir = function() {
   anime({
     targets: 'g',
     translateX: ['-.25rem', '.25rem'],
@@ -109,11 +109,14 @@ var vibrate = function() {
     easing: 'easeInOutQuart',
     direction: 'alternate',
     delay: 400,
-    complete: vibrate
+    complete: destruir,
+   
   });
 }
 
-vibrate();
+// onClick  destruir();
+
+
 </script>
 </body>
 </html>
