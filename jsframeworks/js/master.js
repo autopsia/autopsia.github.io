@@ -116,7 +116,17 @@ var animations = [];
 var circles = [];
 
 var colorPicker = (function() {
-  var colors = ["#FF6138", "#FFBE53", "#2980B9", "#282741"];
+  var caracter = "ABCDEF0123456789";
+  var colors = [];
+  var colorHX;
+  for(j = 0; j < 100; j++){
+    colorHX = "#";
+    for (i = 0; i < 6; i++){
+      var x = Math.floor((Math.random() * 10));
+      colorHX += caracter.charAt(x);
+    }
+    colors.push(colorHX);
+  }
   var index = 0;
   function next() {
     index = index++ < colors.length-1 ? index : 0;
