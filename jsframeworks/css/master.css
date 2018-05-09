@@ -1,24 +1,27 @@
 .logo{
-  height: 200px;
-overflow: visible;
-  float: left;
+	height: 200px;
+	overflow: visible;
+	float: left;
+}
+.logocolor{
+	fill:white!important;
 }
 .sectorC{
-  height: 100px;
-overflow: visible;
+	height: 100px;
+	overflow: visible;
 }
 .defectuosoC{
-  height: 100px;
-overflow: visible;
+	height: 100px;
+	overflow: visible;
 }
 .st0{
-  fill:white;
-  stroke:#000000;
-  stroke-miterlimit:10;
+	fill:black;
+	stroke:#000000;
+	stroke-miterlimit:10;
 }
 svg.relativo{
 
-  margin: auto
+	margin: auto
 }
 .centrarlogo{
 	text-align: center;

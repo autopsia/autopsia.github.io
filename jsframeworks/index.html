@@ -11,7 +11,7 @@
 	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 
 	<g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="2" class="lines">
-		<path class="st0" d="M226,3.1H3v294h223c70.2,0,71-71,71-71v-152C297,3.9,226,3.1,226,3.1z M250,118.1c-7-12.2-20.1-20.4-35.2-20.4
+		<path class="st0 logocolor" d="M226,3.1H3v294h223c70.2,0,71-71,71-71v-152C297,3.9,226,3.1,226,3.1z M250,118.1c-7-12.2-20.1-20.4-35.2-20.4
 			c-0.4,0-102.6,0-102.6,0c-7.9,0-14.4,6.4-14.4,14.4c0,7.9,6.4,14.4,14.4,14.4v0h90.4c0,0,47.3,0.5,47.3,47.3v28.7
 			c0,0-0.5,47.3-47.3,47.3H50.6v-47.3v-19.3c7.1,11.6,19.9,19.3,34.5,19.3c0.4,0,102,0,102,0c0.3,0,0.7,0.1,1,0.1
 			c7.9,0,14.4-6.4,14.4-14.4c0-7.9-6.4-14.4-14.4-14.4v-0.1H92.3c-1.5-0.2-3.1-0.5-5-0.9c-13.9-3.2-36.7-13.3-36.7-45.8v-0.5V97.7
@@ -62,121 +62,7 @@
 		z M650.5,115c0,10.2,4.5,14,11.6,14s11.6-3.9,11.6-14V38.2c0-10.2-4.5-14-11.6-14s-11.6,3.9-11.6,14V115z"/>
 </g></svg></div></div>
 <script type="text/javascript" src="js/anime.js"></script>
-<script type="text/javascript">
-// linea exterior dibujandose constantemente
-	var lineDrawing = anime({
-  targets: '#lineDrawing .lines path',
-  strokeDashoffset: [anime.setDashoffset, 0],
-  easing: 'easeInOutSine',
-  duration: 4000,
-  delay: 0,
-  direction: 'alternate',
-  loop: false
-});
-var sectorA = anime({
-targets: '#sectorA .lines path',
-strokeDashoffset: [anime.setDashoffset, 0],
-easing: 'easeInOutSine',
-duration: 4000,
-delay: 0,
-direction: 'alternate',
-loop: true
-});
-var defectuosoA = anime({
-targets: '#defectuosoA .lines path',
-strokeDashoffset: [anime.setDashoffset, 0],
-easing: 'easeInOutSine',
-duration: 3500,
-delay: 0,
-direction: 'alternate',
-loop: true
-});
-//destruir logo al darle click
-var destruir = function() {
-  anime({
-    targets: 'g',
-    translateX: ['-.25rem', '.25rem'],
-    duration: 50,    
-    direction: 'alternate',
-    loop: 10,
-    easing: 'easeOutBack',
-  });
-  anime({
-    targets: 'path',
-    translateX: function() { return anime.random(-10, 10) + 'rem'; },
-    translateY: function() { return anime.random(-3, 5) + 'rem'; },
-    scale: function() { return anime.random(10,20) / 10; },
-    rotate: function() { return anime.random(-360,360); },
-    duration: function() { return anime.random(800,1200); },
-    easing: 'easeInOutQuart',
-    direction: 'alternate',
-    delay: 400,
-
-  });
-}
-
-// pintar logo
-
-var animacionLogo = anime.timeline({
-  direction: 'alternate',
-  loop: false
-});
-
-animacionLogo.add([
-  {
-    targets: '#sectorA path',
-    translateX: [-2000, 0],
-    opacity: {
-      value: 1,
-      duration: 100
-    },
-    fill: '#FFF',
-    delay: (el, i) => 800 + (i * 75),
-    duration: 400,
-    easing: 'easeOutExpo',
-    offset: 0
-  }, {
-    targets: '#defectuosoA path',
-    opacity: [0, 1],
-    fill: '#FFF',
-    easing: 'easeOutExpo',
-    duration: 200,
-    delay: (t, i) => 1700 + (anime.random(0, 470)),
-    offset: 0
-  }, {
-    targets: '.logo',
-    translateX: (target) => {
-      let x = 1200;
-      let translate;
-      if (target.classList.contains('hori')) translate = anime.random(0, 1) ? x : -x;
-      if (target.classList.contains('diag-right') || target.classList.contains('diag-left')) translate =  x / 3;
-      return [translate, 0];
-    },
-    translateY: (target) => {
-      let y = 1200;
-      let translate;
-      if (target.classList.contains('vert')) translate = anime.random(0, 1) ? y : -y;
-      if (target.classList.contains('diag-right')) translate =  -y / 3;
-      if (target.classList.contains('diag-left')) translate =  y / 3;
-      return [translate, 0];
-    },
-    scale: {
-      value: [6, 1],
-      duration: 500,
-    },
-    stroke: '#F9C100',
-    opacity: {
-      value: [0, 1],
-      duration: 100,
-    },
-    delay: (t, i) => (i * 25),
-    duration: 500,
-    easing: 'easeOutQuart',
-    offset: 0
-  }
-]);
-
-
+<script type="text/javascript" src="js/master.js">
 
 </script>
 </body>
