@@ -7,4 +7,4 @@
 | 1. [JSFrameworks](/jsframeworks/index.html) | Uso de librerias javascript (AnimeJS) | 8/5/2018 |
 
 ___
-<sub><sup>[Sector Defectuoso](http://sectordefectuoso.com)</sub></sup>
+<sub><sup>[Sector Defectuoso](http://sectordefectuoso.com)</sup></sub>
