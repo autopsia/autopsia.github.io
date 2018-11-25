@@ -1,3 +1,22 @@
-name: Experimentación Limitada
-author: autopsia
-url: http://el.sectordefectuoso.com/
+url: http://sectordefectuoso.com
+title: Sector Defectuoso
+subtitle: ""
+description: ""
+lang: es
+
+layout: default
+comments: true
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: /pagina/:num/
+disqus_shortname: sectordefectuoso
+
+collections:
+  microblog:
+    output: true
+    permalink: microblog/:year/:month/:day/:hour-:minute-:second/
