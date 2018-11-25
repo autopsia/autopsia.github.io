@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JS Frameworks</title>
+	<link rel="stylesheet" href="css/master.css">
+</head>
+<body><canvas id="c"></canvas>
+	<div class="centrarlogo">
+<!-- Logo -->
+<div  onclick="destruir();return false"  id="lineDrawing">
+	<svg class="logo relativo" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+
+	<g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="2" class="lines">
+		<path class="st0 logocolor" d="M226,3.1H3v294h223c70.2,0,71-71,71-71v-152C297,3.9,226,3.1,226,3.1z M250,118.1c-7-12.2-20.1-20.4-35.2-20.4
+			c-0.4,0-102.6,0-102.6,0c-7.9,0-14.4,6.4-14.4,14.4c0,7.9,6.4,14.4,14.4,14.4v0h90.4c0,0,47.3,0.5,47.3,47.3v28.7
+			c0,0-0.5,47.3-47.3,47.3H50.6v-47.3v-19.3c7.1,11.6,19.9,19.3,34.5,19.3c0.4,0,102,0,102,0c0.3,0,0.7,0.1,1,0.1
+			c7.9,0,14.4-6.4,14.4-14.4c0-7.9-6.4-14.4-14.4-14.4v-0.1H92.3c-1.5-0.2-3.1-0.5-5-0.9c-13.9-3.2-36.7-13.3-36.7-45.8v-0.5V97.7
+			V50.4h47.3h104.8c0,0,47.3,0.5,47.3,47.3V118.1z"/>
+</g></svg> </div>
+<!-- sector -->
+<div id="sectorA">
+<svg class="sectorC relativo" version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 700 150" style="enable-background:new 0 0 700 150;" xml:space="preserve">
+<g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="2" class="lines">
+	<path class="st0 draggable" d="M37.3,3.4c21.7,0,32.9,13,32.9,35.8v4.5H49v-5.9c0-10.2-4.1-14-11.2-14s-11.2,3.9-11.2,14
+		c0,29.3,43.7,34.8,43.7,75.4C70.4,136,59,149,37.1,149c-22,0-33.3-13-33.3-35.8v-8.7h21.1v10.2c0,10.2,4.5,13.8,11.6,13.8
+		S48,124.8,48,114.6C48,85.3,4.3,79.9,4.3,39.2C4.3,16.4,15.5,3.4,37.3,3.4z"/>
+	<path class="st0 draggable" d="M98.2,65h30.7v20.3H98.2V127h38.6v20.3h-61V5.1h61v20.3H98.2V65z"/>
+	<path class="st0 draggable" d="M208.2,94.3v18.9c0,22.8-11.4,35.8-33.3,35.8c-22,0-33.3-13-33.3-35.8v-74c0-22.8,11.4-35.8,33.3-35.8
+		c22,0,33.3,13,33.3,35.8V53h-21.1V37.8c0-10.2-4.5-14-11.6-14s-11.6,3.9-11.6,14v76.8c0,10.2,4.5,13.8,11.6,13.8
+		s11.6-3.7,11.6-13.8V94.3H208.2z"/>
+	<path class="st0 draggable" d="M208,5.1h69.1v20.3h-23.4v122h-22.4v-122H208V5.1z"/>
+	<path class="st0 draggable" d="M277.7,39.2c0-22.8,12-35.8,33.9-35.8c22,0,33.9,13,33.9,35.8v74c0,22.8-12,35.8-33.9,35.8
+		c-22,0-33.9-13-33.9-35.8V39.2z M300.1,114.6c0,10.2,4.5,14,11.6,14s11.6-3.9,11.6-14V37.8c0-10.2-4.5-14-11.6-14
+		s-11.6,3.9-11.6,14V114.6z"/>
+	<path class="st0 draggable" d="M399.5,147.3c-1.2-3.7-2-5.9-2-17.5v-22.4c0-13.2-4.5-18.1-14.6-18.1h-7.7v57.9h-22.4V5.1h33.7
+		c23.2,0,33.1,10.8,33.1,32.7V49c0,14.6-4.7,24.2-14.6,28.9c11.2,4.7,14.8,15.4,14.8,30.3v22c0,6.9,0.2,12,2.4,17.3H399.5z
+		 M375.1,25.4v43.7h8.7c8.3,0,13.4-3.7,13.4-15V40c0-10.2-3.5-14.6-11.4-14.6H375.1z"/>
+</g></svg></div>
+<!-- defectuoso -->
+<div id="defectuosoA">
+<svg class="defectuosoC relativo" version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 700 150" style="enable-background:new 0 0 700 150;" xml:space="preserve">
+<g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="2" class="lines">
+	<path class="st0 draggable" d="M5.2,5.4h35.4c22.4,0,33.3,12.4,33.3,35.2v72c0,22.8-11,35.2-33.3,35.2H5.2V5.4z M27.5,25.8v101.6h12.6
+		c7.1,0,11.4-3.7,11.4-13.8v-74c0-10.2-4.3-13.8-11.4-13.8H27.5z"/>
+	<path class="st0 draggable" d="M103.1,65.4h30.7v20.3h-30.7v41.7h38.6v20.3h-61V5.4h61v20.3h-38.6V65.4z"/>
+	<path class="st0 draggable" d="M170.6,68.6h28.9V89h-28.9v58.7h-22.4V5.4h59.1v20.3h-36.8V68.6z"/>
+	<path class="st0 draggable" d="M233.2,65.4h30.7v20.3h-30.7v41.7h38.6v20.3h-61V5.4h61v20.3h-38.6V65.4z"/>
+	<path class="st0 draggable" d="M343.2,94.7v18.9c0,22.8-11.4,35.8-33.3,35.8c-22,0-33.3-13-33.3-35.8v-74c0-22.8,11.4-35.8,33.3-35.8
+		c22,0,33.3,13,33.3,35.8v13.8h-21.1V38.2c0-10.2-4.5-14-11.6-14s-11.6,3.9-11.6,14V115c0,10.2,4.5,13.8,11.6,13.8
+		s11.6-3.7,11.6-13.8V94.7H343.2z"/>
+	<path class="st0 draggable" d="M343,5.4h69.1v20.3h-23.4v122h-22.4v-122H343V5.4z"/>
+	<path class="st0 draggable" d="M435.9,5.4v109.8c0,10.2,4.5,13.8,11.6,13.8s11.6-3.7,11.6-13.8V5.4h21.1v108.3c0,22.8-11.4,35.8-33.3,35.8
+		s-33.3-13-33.3-35.8V5.4H435.9z"/>
+	<path class="st0 draggable" d="M486.3,39.6c0-22.8,12-35.8,33.9-35.8s33.9,13,33.9,35.8v74c0,22.8-12,35.8-33.9,35.8s-33.9-13-33.9-35.8V39.6
+		z M508.7,115c0,10.2,4.5,14,11.6,14s11.6-3.9,11.6-14V38.2c0-10.2-4.5-14-11.6-14s-11.6,3.9-11.6,14V115z"/>
+	<path class="st0 draggable" d="M591.4,3.8c21.7,0,32.9,13,32.9,35.8V44h-21.1v-5.9c0-10.2-4.1-14-11.2-14s-11.2,3.9-11.2,14
+		c0,29.3,43.7,34.8,43.7,75.4c0,22.8-11.4,35.8-33.3,35.8s-33.3-13-33.3-35.8v-8.7H579V115c0,10.2,4.5,13.8,11.6,13.8
+		s11.6-3.7,11.6-13.8c0-29.3-43.7-34.8-43.7-75.4C558.5,16.8,569.6,3.8,591.4,3.8z"/>
+	<path class="st0 draggable" d="M628.2,39.6c0-22.8,12-35.8,33.9-35.8s33.9,13,33.9,35.8v74c0,22.8-12,35.8-33.9,35.8s-33.9-13-33.9-35.8V39.6
+		z M650.5,115c0,10.2,4.5,14,11.6,14s11.6-3.9,11.6-14V38.2c0-10.2-4.5-14-11.6-14s-11.6,3.9-11.6,14V115z"/>
+</g></svg></div></div>
+<script type="text/javascript" src="js/anime.js"></script>
+<script type="text/javascript" src="js/interact.js"></script>
+<script type="text/javascript" src="js/master.js"></script>
+</body>
+</html>
+
