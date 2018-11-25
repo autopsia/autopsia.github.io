@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<!-- This loops through the paginated posts -->
+
+    {% for microblog in site.microblog %}
+    <article>
+      <h2>{{ microblog.title }}</h2>
+      <p>{{ microblog.content | markdownify }}</p>
+    </article>
+    {% endfor %}

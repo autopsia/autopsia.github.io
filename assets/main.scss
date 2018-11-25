@@ -1,0 +1,93 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab');
+
+img.center{
+  display: block;
+  margin: 0 auto;
+}
+img.left{
+  float: left;
+  margin: 0 10px 10px 0;
+}
+img.right{
+  float: right;
+  margin: 0 0 10px 10px;
+  padding: -10px;
+}
+.center{
+  text-align: center;
+}
+.wrapper{
+  max-width: 680px;
+  padding: 0;
+}
+article{
+  background: #fff;
+  padding: 20px;
+  max-width: 640px;
+  margin: 0 0 20px 0;
+  border-right: 3px solid #444;
+  border-bottom: 3px solid #444;
+  border-radius: 0;
+}
+.contenedor{
+  background: #fff;
+  padding: 0px;
+  max-width: 680px;
+}
+.site-header{
+  border: 0;
+}
+.site-title img{
+  display: block;
+  margin: 0 auto;
+}
+body{
+  background: #eee url("/assets/images/fondo.gif");
+  font-family: 'Open Sans', sans-serif;
+}
+.page-content{
+  padding-top: 0;
+}
+.pagination{
+  list-style-type: none;
+  display:inline-block;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  margin-bottom: -6px;
+  font-family: 'Roboto Slab', sans-serif;
+  text-align: center;
+}
+.pagination li{
+  display:inline-block;
+  font-size: 1.2em;
+  line-height: 2em;
+
+}
+.pagination li a{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+  margin: 0;
+}
+.pagination li.active {
+  background: #eee;
+  color: white;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Roboto Slab', sans-serif;
+}
+h2{
+  font-size: 2em;
+  margin-bottom: 0;
+}
+.site-footer{
+  border: 0;
+  padding-top: 0;
+}

@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+{% if post.layout == 'microblog' %}
+  <article>
+    {{ post.content }}
+  </article>
+{% else %}
+  <article>
+    <div class="post-header">
+      <h2>
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+      <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%d/%m/%Y" -%}
+        {{ post.date | date: date_format }}
+      </time>
+    </div>
+    {{ post.content | split:"<!--more-->" | first }}
+    {% if post.content contains '<!--more-->' %}
+      <a href="{{ post.url }}"><strong>Leer Más</strong></a>
+    {% endif %}
+  </article>
+{% endif %}
+{% endfor %}
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+  <nav class="contenedor center">
+  <ul class="pagination pagination-sm">
+    {% if paginator.previous_page %}
+      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
+    {% else %}
+      <li class="disabled"><span aria-hidden="true">&laquo;</span></li>
+    {% endif %}
+
+    <li><a href="/">Primera</a></li>
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <li class="active"><a>{{ page }}</a></li>
+      {% elsif page == 1 %}
+        <li><a href="/">{{ page }}</a></li>
+      {% else %}
+        <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+      {% endif %}
+    {% endfor %}
+
+    <li><a href="/pagina/{{ paginator.total_pages }}/">Última</a></li>
+
+    {% if paginator.next_page %}
+      <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&raquo;</span></li>
+    {% endif %}
+  </ul>
+  <nav>
+{% endif %}
