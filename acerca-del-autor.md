@@ -1,5 +1,6 @@
 ---
 id: 24
+
 title: Acerca del autor
 date: 2013-02-11T02:31:00+00:00
 author: autopsia

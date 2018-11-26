@@ -25,7 +25,7 @@ img.right{
   max-width: 680px;
   padding: 0;
 }
-article{
+article,.contenedor{
   background: #fff;
   padding: 20px;
   max-width: 640px;
@@ -34,7 +34,7 @@ article{
   border-bottom: 3px solid #444;
   border-radius: 0;
 }
-.contenedor{
+.pagination-nav{
   background: #fff;
   padding: 0px;
   max-width: 680px;

@@ -3,11 +3,6 @@ layout: default
 ---
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-{% if post.layout == 'microblog' %}
-  <article>
-    {{ post.content }}
-  </article>
-{% else %}
   <article>
     <div class="post-header">
       <h2>
@@ -25,12 +20,11 @@ layout: default
       <a href="{{ post.url }}"><strong>Leer Más</strong></a>
     {% endif %}
   </article>
-{% endif %}
 {% endfor %}
 
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
-  <nav class="contenedor center">
+  <nav class="pagination-nav center">
   <ul class="pagination pagination-sm">
     {% if paginator.previous_page %}
       <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
