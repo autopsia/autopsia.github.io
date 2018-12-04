@@ -7,9 +7,7 @@ layout: post
 guid: http://sectordefectuoso.com/?p=1
 permalink: /primer-escrito/
 categories:
-  - General
-tags:
-  - Anuncios
+  - Personal
 ---
 Éste es un nuevo intento por crear un espacio web, he aprendido mucho de mis anteriores proyectos, los cuales no mantuvieron mi interés por lo cual termine abandonándolos, a pesar de ello, intentaré con esta bitácora saciar mi necesidad de un rincón virtual y la de redactar.
 

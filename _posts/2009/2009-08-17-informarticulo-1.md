@@ -9,7 +9,7 @@ permalink: /informarticulo-1/
 categories:
   - Otros
 ---
-![En búsqueda de la Iluminación](/images/2009/08/iluminacion.gif){:.left}
+![En búsqueda de la Iluminación](/assets/images/2009/08/iluminacion.gif){:.left}
 
 Esperando que a alguien le sirva mis **búsquedas de cosas interesantes** que se encuentran en el fantástico mundo de la Internet, aquí va la primera tanda de los Informartículos, el nombre es la combinaciòn de Información con Artículos, espero, con esta sección, que puedan resolver las dudas de los visitantes de Google, en cuanto al número por ser el primero serán solo 5 búsquedas ~~(si soy ocioso)~~, en las siguientes entregas presentare 10 como mínimo.
 

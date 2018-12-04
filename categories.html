@@ -1,0 +1,20 @@
+---
+layout: page
+permalink: /categorias/
+title: Categorías
+---
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <h3 id="{{ category_name | slugify:'latin' }}" class="category-head">{{ category_name }}</h3>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <ul>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> <span class="post-meta">- {{post.date | date: "%d/%m/%Y"}}</span></li>
+      </ul>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>

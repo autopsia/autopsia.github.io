@@ -7,14 +7,14 @@ layout: post
 guid: http://sectordefectuoso.com/?p=1644
 permalink: /target-charizard/
 categories:
+  - Juegos
+tags:
   - 3DS
   - Eventos
   - Pokémon
-tags:
-  - Código Serial
-  - Sun and Moon
+
 ---
-![Charizard Target Event](/images/2017/10/charizardtarget.jpg){:.center}
+![Charizard Target Event](/assets/images/2017/10/charizardtarget.jpg){:.center}
 
 Un nuevo evento para la región Americana de la 3DS, esta vez otro Charizard, el Pokémon con más eventos en **Sun&Moon**, aunque su primero para esta región. Charizard llega rugiendo a las tiendas **Target** en USA y Canadá.
 
@@ -47,9 +47,9 @@ No tiene mucho de especial, tiene un set orientado para **ataque físico** el cu
 <td>Pokemon</td>
 <td colspan="2">Charizard</td>
 <td colspan="3" rowspan="5" markdown="1">
-![Cherish Ball](/images/2017/10/cherishball.png){:.left}
-![Target Charizard](/images/2017/10/charizard.png){:.center}
-![Classic Ribbon](/images/2017/10/classicribbon.png){:.right}
+![Cherish Ball](/assets/images/2017/10/cherishball.png){:.left}
+![Target Charizard](/assets/images/2017/10/charizard.png){:.center}
+![Classic Ribbon](/assets/images/2017/10/classicribbon.png){:.right}
 </td>
 </tr>
 <tr>
@@ -92,6 +92,6 @@ No tiene mucho de especial, tiene un set orientado para **ataque físico** el cu
 
 ### Imágenes del evento
 
-![Target Charizard](/images/2017/10/charizardcode.jpg){:.center}
+![Target Charizard](/assets/images/2017/10/charizardcode.jpg){:.center}
 
 *La primera persona que comente con su correo se le enviará un código si así lo desea.

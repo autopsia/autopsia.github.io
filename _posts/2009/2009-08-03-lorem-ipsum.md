@@ -7,10 +7,9 @@ layout: post
 guid: http://sectordefectuoso.com/?p=33
 permalink: /lorem-ipsum/
 categories:
-  - Curiosidades
   - Otros
 ---
-![Lorem Ipsum](/images/2009/08/lorem.png){:.center}
+![Lorem Ipsum](/assets/images/2009/08/lorem.png){:.center}
 
 Alguna vez nos preguntamos cuando vimos alguna plantilla o diseño web en Internet que este texto esta presente pero la mayoría de veces terminamos obviando, es el relleno de diseños visuales por excelencia.
 

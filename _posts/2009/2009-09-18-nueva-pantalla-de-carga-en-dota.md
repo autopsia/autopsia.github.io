@@ -7,14 +7,13 @@ layout: post
 guid: http://sectordefectuoso.com/?p=580
 permalink: /nueva-pantalla-de-carga-en-dota/
 categories:
-  - Computador
+  - Juegos
 tags:
-  - Blizzard
   - DotA
   - WarCraft
 ---
 
-  ![DotA 6.63 LoadScreen](/images/2009/09/dota.jpg){:.center}
+  ![DotA 6.63 LoadScreen](/assets/images/2009/09/dota.jpg){:.center}
 
 Hoy como de costumbre me dirijo a jugar algunas partidas de [**DotA**](http://sectordefectuoso.com/articulos/dota-allstars-defiende-a-los-ancestros/), el WarCraft me pide actualizar, lo hago, descargo la [última versión del mapa](http://www.getdota.com/indexmain/lang/spa) (6.63, que ya esta por fin en español), creo una sala, espero que se llene, inicio el juego, y delante de mis ojos aparece esta genial obra de arte.
 

@@ -7,12 +7,12 @@ layout: post
 guid: http://sectordefectuoso.com/?p=1302
 permalink: /pokemon-y-yo/
 categories:
-  - Curiosidades
+  - Juegos
   - Vistazos
 tags:
   - Pokémon
 ---
-![Pokémon y Yo](/images/2009/12/pokemon.jpg){:.center}
+![Pokémon y Yo](/assets/images/2009/12/pokemon.jpg){:.center}
 
 La primera vez que vi el juego Pokémon tenia como 8 años, estaba en el bus, cuando veo que detrás mio se forma una turba de gente rodeando a otro chico, me volteo y vi un aparato nuevo, algo que dejaba a mi Tetris desfasado, una maquinita amarilla que con unas líneas negras sobre un fondo verde te mostraba un mundo nuevo, veía como el chico hacia caminar a su muñequito y salían unos bichos, el primero que vi fue el de un caballo con llamas en el lomo, de una maniobra se deshizo de el y siguió su camino.
 
@@ -58,13 +58,13 @@ Se le llama así a los primeros juegos, que salieron para el GameBoy (sin color)
 
 #### Pokemon Red (Rojo)
 
-![Pokemon Red](/images/2009/12/pokemonred.png){:.right}
-![Pokemon Red](/images/2009/12/red.jpg){:.left}
+![Pokemon Red](/assets/images/2009/12/pokemonred.png){:.right}
+![Pokemon Red](/assets/images/2009/12/red.jpg){:.left}
 Este sin duda fue un gran éxito en su tiempo, planteando un buen sistema de juegos, combinando elementos de los juegos de rol, permitiendo cambiar tus bichos con otros mediante el _cable link_, ideal para intercambiar pokémon con los amigos, indispensable si querías evolucionar a ciertos tipos, el recorrer un mundo virtual era algo que no había hecho antes, en portátil solo había probado el tetris (ZzZ), Arkanoid (este si me gusto) y un juego de carreras para esquivar obstáculos, ese será tema para otro día.
 
 Trucos hechos por mí gracias a los _glitches_ del juego:
 
-![Islas Fallo / Missingno](/images/2009/12/islas-fallo-missigno.png){:.right}
+![Islas Fallo / Missingno](/assets/images/2009/12/islas-fallo-missigno.png){:.right}
 
   * **Islas Fallo:** Sencillamente son unas islas llenas de gráficos defectuosos, no hay mucho que hacer ahí, solo queda como curiosidad, no guardes tu partida aquí.
   * **New:** El mítico pokémon 151, era legalmente incapturable, pero con un truco te podías hacer con él antes del cuarto gimnasio.
@@ -72,8 +72,8 @@ Trucos hechos por mí gracias a los _glitches_ del juego:
 
 #### Pokemon Card Trading Game
 
-![Pokémon Trading Card Game](/images/2009/12/pokemontcg.png){:.right}
-![Pokémon Trading Card Game](/images/2009/12/tcg.jpg){:.left}
+![Pokémon Trading Card Game](/assets/images/2009/12/pokemontcg.png){:.right}
+![Pokémon Trading Card Game](/assets/images/2009/12/tcg.jpg){:.left}
 
 El videojuego del juego de cartas, toma la misma premisa de Pokémon Red y solo cambia los Pokémon por las cartas (también Pokémon), teniendo también que recorrer el mundo y luchar contra otros duelistas para convertirte en ... un maestro de las cartas?.
 
@@ -81,7 +81,7 @@ Si ya tenias las carta, para que necesitabas el juego, por si tus amigos no teni
 
 #### Pokemon Stadium
 
-![Pokémon Stadium](/images/2009/12/stadium.jpg){:.left}
+![Pokémon Stadium](/assets/images/2009/12/stadium.jpg){:.left}
 Gracias a la Nintendo 64 pude ver a mis bichos favoritos con gráficos poligonales, aunque es más de lo mismo en el modo historia, en el modo versus era todo diversión, elegir tus pokes sin tener que buscarlos y capturarlos (aunque se podía jugar con los tuyos de Pokémon Red) retar a tus amigos para ver quién era el "maestro pokémon".
 
 La voz del comentarista narrando lo que sucedia en la batalla, las divertidas animaciones que hacian los pokémon al ejecutar un ataque o recibirlo.
@@ -100,14 +100,14 @@ Mi primera consola portátil (mía de mí) fue el Gameboy Advance SP, era casi l
 
 #### Pokemon Sapphire (Zafiro)
 
-![Pokémon Sapphire](/images/2009/12/sapphire.jpg){:.left}
+![Pokémon Sapphire](/assets/images/2009/12/sapphire.jpg){:.left}
 Lo compré el mismo día que el GBA, no había jugado un pokémon desde Red, vi que habían como 200 bichos nuevos, ninguno reconocible, poco a poco me fui familiarizando con ellos, en el transcurso del juego pude obtener a mi primer pokémon shiny, que al final borre para empezar otra partida, habré hecho eso unas 20 veces ya que la emoción esta en el comienzo.
 
 También se añadieron los Concursos Pokémon, dejando de lado las batallas y centrandose en las habilidades del pokémon siendo estas inteligencia, belleza, dulzura, dureza y carisma, que podías aumentar con los pokeblock (o pocochos en español), estos se creaban a base de bayas y un pequeño minijuego.
 
 #### Pokemon Pinball Ruby & Sapphire
 
-![Pokémon Pinball Ruby & Sapphire](/images/2009/12/pinballrs.jpg){:.left}
+![Pokémon Pinball Ruby & Sapphire](/assets/images/2009/12/pinballrs.jpg){:.left}
 En si el Pinball nunca me ha llamado la atención ganar puntos golpeando una pelota hasta que caiga se me hacia monótono, a eso agrégale pokémos y tendrás un juego bastante interesante, en el cual podías echar unas cuantas partidas rápidas.
 
 Tendrás que hacer lo típico del Pinball, el tablero esta adornado con elementos de la saga, ganado puntos para llenar el pokédex, mientra más ganes más rara será la especie disponible para captura.
@@ -116,7 +116,7 @@ Te preguntaras porqué Ruby&Sapphire, es porque, en el juego, tendrás que elegi
 
 #### Pokemon FireRed (Fuego Rojo)
 
-![Pokémon FireRed](/images/2009/12/firered.jpg){:.left}
+![Pokémon FireRed](/assets/images/2009/12/firered.jpg){:.left}
 El _remake_ de la primera entrega tiene los gráficos del Pokémon Zafiro, añadiéndole 7 islas para hacer más largo el juego, en estas islas puedes encontrar los pokémon de la Región Jotho y una corta historia adicional en la cual debías recuperar unos cristales para intercambiar con Rubi y Zafiro.
 
 Al tener la misma historia de Pokémon Red, no había mucha novedad sino los recuerdos de volver a jugar al primer pokémon pero sin los glitches
@@ -125,7 +125,7 @@ Introducía una especie de _cable link wireless_ (sin cables) que permitía acce
 
 #### Pokemon Emerald (Esmeralda)
 
-![Pokémon Emerald](/images/2009/12/emerald.jpg){:.left}
+![Pokémon Emerald](/assets/images/2009/12/emerald.jpg){:.left}
 La versión mejorada de Pokémon Zafiro, este incluye una gran zona de combates con diversos edificios para peleas en remplazo de la aburrida Torre de Batallas, dando una especie de tarjeta para puntos y cambiar por premios desde objetos hasta ataques para enseñar a un pokémon.
 
 El único pokémon que me falto en el cartucho de Gameboy para completar el Pokedex fue Zangoose, el cual solo estaba disponible en Pokémon Rubí, solo ese y hubiera recibido algún _starter_ de Jotho.
@@ -138,7 +138,7 @@ Los juegos para la Nintendo DS, trayendo la novedad más ínedita: Jugar Online,
 
 #### Pokemon Diamante
 
-![Pokémon Diamond](/images/2009/12/diamond.jpg){:.left}
+![Pokémon Diamond](/assets/images/2009/12/diamond.jpg){:.left}
 Mi GBA SP ya fallaba (pero hasta hoy sirve)  así que compré el juego junto a laflamante NDS (por no decir que compre la DS por el juego), entusiasmado por ver las nuevas caracteristicas, en especial lo de jugar online a través del Internet con personas de otros países.
 
 Los gráfico simulaban un ambiente 3D en el juego, claro que en las batallas se volvían a usar los sprites añadiendo geniales efectos a los ataques.
@@ -147,7 +147,7 @@ En mis andadas por las partidas online aprendí muchísimo sobre estadísticas, 
 
 #### Pokemon Exploradores de la Oscuridad
 
-![Pokémon Exploradores de la Oscuridad](/images/2009/12/exploradoresoscuridad.jpg){:.left}
+![Pokémon Exploradores de la Oscuridad](/assets/images/2009/12/exploradoresoscuridad.jpg){:.left}
 Basta ya de entrenadores, gimnasios y medallas, ahora tu eres el Pokémon, después de un naufragio pierdes la memoria, te encuentras otro pokémon forman un equipo y rescatan a otros pokémons perdidos en laberintos, tratando de descubrir el porque de tu amnesia.
 
 Es un juego por turnos, al principio debes pasar un test de personalidad para averiguar _que pokémon eres_ (a mi me salió Cyndaquil), a este como a tu compañero no lo podrás evolucionar, y a los demás solo cuando ya terminaste el modo historia del juego.
@@ -156,7 +156,7 @@ Los laberintos cambian de forma cada vez que entres, habrán pokémon salvajes q
 
 #### Pokémon Ranger: Sombras de Almia
 
-![Pokémon Ranger: Sombras de Almia](/images/2009/12/rangersombrasalmia.jpg){:.left}
+![Pokémon Ranger: Sombras de Almia](/assets/images/2009/12/rangersombrasalmia.jpg){:.left}
 En este juego también nos alejamos de la meta de ser el "mejor entrenador", ahora nos dedicamos a cuidar a los pokémon y su medio ambiente , como no podían faltar los malos de turno, en este caso el equipo Pocalux.
 
 Hace gran uso del _style_ del Nintendo DS ya que tienes hacer círculos en la pantalla para subir tu nivel de _amistad_ con el pokémon, cosa que dañará tu pantalla si no tienes un protector.
@@ -173,11 +173,11 @@ Tomando en cuenta que el juego paso de tener 4 colores a ser pseudo-3D.
 
 En el gráfico podemos ver la comparación de los _sprites_ del Pokémon favorito de todo fan de la saga: **Magikarp** y su evolución a través de los juegos.
 
-![Evolución Gráfica Pokémon](/images/2009/12/evoluciongrafica.png){:.center}
+![Evolución Gráfica Pokémon](/assets/images/2009/12/evoluciongrafica.png){:.center}
 
 ### Estadísticas
 
-![Estadísticas Pokémon](/images/2009/12/estadisticas.png){:.right}
+![Estadísticas Pokémon](/assets/images/2009/12/estadisticas.png){:.right}
 Como mencione anteriormente aprendí mucho sobre las estadísticas de los Pokémon, y ahora trataré de explicar en pocas palabras lo aprendido y que sea entendible para ustedes (los mortales), estos se aplican a la tercera y cuarta generación.
 
 La Naturaleza en los pokémon daría ventaja en algún _stat_ reduciendo otro (20%), yo siempre reducía ataque especial para aumentar ataque y viceversa, dependiendo del usuario.
@@ -192,7 +192,7 @@ La idea era hacer varios huevos pokémon y seleccionar a los más aptos para el 
 
 ### Experiencia Online
 
-![Jubilife City](/images/2009/12/jubilife.png){:.left}
+![Jubilife City](/assets/images/2009/12/jubilife.png){:.left}
     Jubilife City, Global Trade Center de Nintendo
 
 Mi experiencia se basa en los duelos e intercambios, en los duelos la mayoria fueron victorias,

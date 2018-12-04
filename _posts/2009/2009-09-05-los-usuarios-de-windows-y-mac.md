@@ -9,7 +9,7 @@ permalink: /los-usuarios-de-windows-y-mac/
 categories:
   - Humor
 ---
-  ![Usuarios Windows y Mac](/images/2009/09/winmac.png){:.center}
+  ![Usuarios Windows y Mac](/assets/images/2009/09/winmac.png){:.center}
 
     ¿Será cierto?
 

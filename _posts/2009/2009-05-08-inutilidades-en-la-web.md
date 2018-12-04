@@ -15,7 +15,7 @@ blogger_8a1fc3a171a50092dc373819a7cb94b2_permalink:
 categories:
   - Otros
 ---
-![Inutilidad](/images/2009/05/inutil.gif){:.left}
+![Inutilidad](/assets/images/2009/05/inutil.gif){:.left}
 Hoy expondré 5 inutilidades que encontré [aquí](http://www.milinkito.com/linkodromo/?id=inutilidades), me refiero a inutilidades como aplicaciones que tienen un uso nulo y más que nada se usan para perder el tiempo ~~o para hacer artículos sobre lo "utiles que son en un blog"~~, bueno comencemos con esta corta lista sobre generadores basura y aplicaciones absurdas:
 
 <!--more-->

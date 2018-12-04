@@ -7,7 +7,8 @@ layout: post
 guid: http://sectordefectuoso.com/?p=436
 permalink: /la-personalidad-de-algunos-sitios-web/
 categories:
-  - Curiosidades
+  - Humor
+tags:
   - Internet
 ---
 ![Personalidad de algunas Web](/images/2009/09/personalidadweb.png){:.center}

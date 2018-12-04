@@ -17,7 +17,7 @@ categories:
 tags:
   - Emulación
 ---
-![Emuladores SNES](/images/2009/07/emusnes.png){:.center}
+![Emuladores SNES](/assets/images/2009/07/emusnes.png){:.center}
 
 En esta recopilación veremos algunos de los mejores emuladores para la gran consola de 16bits de Nintendo: la Snes (Super Nintendo Entertainment System), o simplemente **Super Nintendo** o **Super Famicom** como la llaman en Japón. No solo hay emuladores para **PC** sino que para distintas plataformas como la **PSP**, la <span **NDS** y hasta la **PS2**.
 
@@ -25,7 +25,7 @@ En esta recopilación veremos algunos de los mejores emuladores para la gran con
 
 ### Zsnes
 
-![Zsnes](/images/2009/07/zsnes.gif){:.left}
+![Zsnes](/assets/images/2009/07/zsnes.gif){:.left}
 
 Fue lanzado en 1997, actualizado por última vez en el 2007 es más reconocido por la calidad del sonido, pero tiene una gran cantidad de características como la de salvar estados del juego, agregar y quitar filtros de imagen y sonido, puedes añadir _cheatcodes_ y **jugar por Internet gracias al NetPlay** que viene integrado.
 
@@ -37,7 +37,7 @@ La última versión del Zsnes no trae consigo la función NetPlay, por lo que se
 
 ### Snes9x
 
-![<Snes9x](/images/2009/07/snes9x.gif){:.left}
+![<Snes9x](/assets/images/2009/07/snes9x.gif){:.left}
 
 Este emulador recibió su última actualización en el 2006, tiene las mismas características que el Zsnes, ademas de permitir grabar secuencia de botones.
 

@@ -7,18 +7,19 @@ layout: post
 guid: http://sectordefectuoso.com/?p=762
 permalink: /illusion-of-time/
 categories:
-  - Super Nintendo
+  - Juegos
   - Vistazos
 tags:
   - Action-RPG
+  - SNES
 ---
-![Illusion of Time](/images/2009/09/ilusionoftime.jpg){:.center}
+![Illusion of Time](/assets/images/2009/09/ilusionoftime.jpg){:.center}
 
 Will es un joven que vive en el apacible pueblo de **South Cape** con sus abuelos, ya que su padre **Olman, el explorador** había desaparecido el año anterior en una expedición a la Torre de Babel. Por las mañanas va a la escuela donde le imparten clases  junto a otros muchachos, por las tardes pasa el rato en una cueva con sus amigos jugando a los naipes. Will posee también extraños **poderes psíquicos**, como el atraer objetos al girar su flauta.
 
 <!--more-->
 
-![Illusion of Gaia](/images/2009/09/illusiongaia.png "El Espacio Oscuro, aquí Gaia sanará tus heridas y grabará tu progreso."){:.left}
+![Illusion of Gaia](/assets/images/2009/09/illusiongaia.png "El Espacio Oscuro, aquí Gaia sanará tus heridas y grabará tu progreso."){:.left}
 
 De pronto esa monotonía se rompe al recibir la visita de **Kara**, la hija del **Rey Edward**, quien es escoltada por unos soldados para llevarla al castillo. Al día siguiente recibe una carta del rey pidiéndole el anillo de cristal de su padre, Will extrañado por esta petición decide ir al castillo para arreglar las cosas con el rey, este lo encierra en el calabozo al ver que no traer el objeto solicitado.
 
@@ -26,7 +27,7 @@ Encerrado pasa el día,  en la mañana escucha una voz, es su padre que le **ha
 
 **Viajaras por las ruinas** de antiguas civilizaciones como las Incas, Líneas de Nazca, Angkor Wat, la Muralla China, Mu y la Pirámides de Egipto.
 
-![Will luchando contra un esqueleto en el calabozo del Castillo.](/images/2009/09/illusioncalabozo.png "Will luchando contra un esqueleto en el calabozo del Castillo."){:.right}
+![Will luchando contra un esqueleto en el calabozo del Castillo.](/assets/images/2009/09/illusioncalabozo.png "Will luchando contra un esqueleto en el calabozo del Castillo."){:.right}
 
 
 

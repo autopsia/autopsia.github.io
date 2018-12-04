@@ -7,12 +7,13 @@ layout: post
 guid: http://sectordefectuoso.com/?p=217
 permalink: /professor-layton-and-the-diabolical-box/
 categories:
-  - Nintendo DS
+  - Juegos
 tags:
   - Aventura Gráfica
   - Puzzle
+  - NDS
 ---
-![Professor Layton and the Diabolical Box"](/images/2009/08/laytondiabolical.png){:.left}
+![Professor Layton and the Diabolical Box"](/assets/images/2009/08/laytondiabolical.png){:.left}
 
 Es el nombre que recibe la segunda parte de la trilogía del **Profesor Layton**, la franquicia de **Level 5** para la **Nintendo DS** lanzada hoy 24 de Agosto en los Estados Unidos, la fecha de salida de este juego para Europa esta prevista para el 25 de Septiembre de este año, sin duda una buena  noticia para los poseedores de la popular consola de Nintendo la cual no veía buenos juegos hace algún tiempo.
 

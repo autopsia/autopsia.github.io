@@ -3,6 +3,6 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a rel="author" href="{{ "/" | relative_url }}"><img class="center" src="/assets/images/logo.png" alt="{{ site.title | escape }}"></a>
+    <a rel="author" href="{{ "/" | relative_url }}"><img class="center" src="/assets/images/logo.png" title="{{ site.title | escape }}"></a>
   </div>
 </header>

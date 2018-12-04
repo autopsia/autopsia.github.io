@@ -7,9 +7,7 @@ layout: post
 guid: http://sectordefectuoso.com/despues-de-la-ausencia-llegan-los-cambios/
 permalink: /despues-de-la-ausencia-llegan-los-cambios/
 categories:
-  - General
-tags:
-  - Novedades
+  - Personal
 ---
 Después de largo tiempo sin escribir (2 semanas) retomo el blog espero poder actualizarlo más a menudo.
 

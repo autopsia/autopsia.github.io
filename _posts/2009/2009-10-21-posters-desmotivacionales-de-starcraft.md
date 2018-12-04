@@ -9,11 +9,9 @@ permalink: /posters-desmotivacionales-de-starcraft/
 categories:
   - Humor
 tags:
-  - Blizzard
-  - Desmotivacional
   - Starcraft
 ---
-![Movimiento de Ataque](/images/2009/10/ataque.jpg){:.center}
+![Movimiento de Ataque](/assets/images/2009/10/ataque.jpg){:.center}
 
 > **Movimiento de Ataque**
 
@@ -25,7 +23,7 @@ Bueno comencemos con el de arriba, se puede ver como los tanques acaban con los 
 
 <!--more-->
 
-![Arcontes Tétricos](/images/2009/10/arconte.jpg){:.center}
+![Arcontes Tétricos](/assets/images/2009/10/arconte.jpg){:.center}
 
 > **Arcontes Tétricos**
 
@@ -33,7 +31,7 @@ Bueno comencemos con el de arriba, se puede ver como los tanques acaban con los 
 
 El arconte tétrico quema todo el maná del enemigo y ocasiona un daño igual al maná perdido, mientras que el Cazador de Demonios, héroe elfo nocturno en WarCraft, quema solo un poco no haciendo daño directo, pero no tienen comparación, el arconte no tiene ataque, el cazador si.
 
-![Precauciones](/images/2009/10/precauciones.png){:.center}
+![Precauciones](/assets/images/2009/10/precauciones.png){:.center}
 
 > **Precauciones**
 
@@ -41,7 +39,7 @@ El arconte tétrico quema todo el maná del enemigo y ocasiona un daño igual al
 
 Godzilla, el lagarto destructor por excelencia, y el monstruo en Cloverfield, un extraterrestre destructor de mundos, conocidos por destruir el mayor símbolo yankee, pero eso es cosa de ayer, ahora esta bien resguardada bajo cañones de protones y torretas de misiles.
 
-![Armadura de Papel](/images/2009/10/armadurapapel.jpg){:.center}
+![Armadura de Papel](/assets/images/2009/10/armadurapapel.jpg){:.center}
 
 > **Armadura de Papel**
 
@@ -49,7 +47,7 @@ Godzilla, el lagarto destructor por excelencia, y el monstruo en Cloverfield, un
 
 Los frágiles modelos de papel sucumben ante los lanzallamas de los Murciélagos de Fuego, no hay mucho que explicar. (Lamentablemente los Murcielagos de fuego, _A.K.A. Firebat_, NO aparecerán en la secuela del juego)
 
-![Infierno](/images/2009/10/soldado.jpg){:.center}
+![Infierno](/assets/images/2009/10/soldado.jpg){:.center}
 
 > **Infierno**
 

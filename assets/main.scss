@@ -3,7 +3,7 @@
 ---
 
 @import "minima";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 img.center{
   display: block;
@@ -21,11 +21,14 @@ img.right{
 .center{
   text-align: center;
 }
+.right{
+  text-align: right;
+}
 .wrapper{
   max-width: 680px;
   padding: 0;
 }
-article,.contenedor{
+.article-container,.contenedor,.archives,.post{
   background: #fff;
   padding: 20px;
   max-width: 640px;
@@ -81,7 +84,7 @@ body{
   color: white;
 }
 h1,h2,h3,h4,h5,h6{
-  font-family: 'Roboto Slab', sans-serif;
+  font-weight: bold;
 }
 h2{
   font-size: 2em;
@@ -90,4 +93,20 @@ h2{
 .site-footer{
   border: 0;
   padding-top: 0;
+}
+
+.post-meta a{
+  color: #828282;
+}
+.icon{
+  vertical-align: middle;
+}
+.post-header{
+  margin-bottom: 20px;
+}
+.meta-micro{
+  margin-bottom: 0;
+}
+.post-content{
+  margin-bottom: 0;
 }

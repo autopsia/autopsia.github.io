@@ -10,7 +10,6 @@ categories:
   - Personal
 tags:
   - Clásicos
-  - Epyros
 ---
 Hoy hace unos pocos minutos compre [Epyros.com](http://epyros.com/) (mi primer página web la razón de mi Nick), en ella puse todo menos un blog y quiero intentarlo otra vez.
 
@@ -20,6 +19,6 @@ Tu primer "algo" es lo que más recuerdas y extrañas a la larga, por esa razón
 
 Para no quitarle el tema de videojuegos al blog dejo esta  imagen que tengo hace mucho en mi disco duro, una imagen de Pacman y sus seguidores en Twitter:
 
-![El Twitter de Pacman](/images/2009/11/pacmantwitter.jpg){:.center}
+![El Twitter de Pacman](/assets/images/2009/11/pacmantwitter.jpg){:.center}
 
 Asi que si quieres leerme en otra faceta ya sabes donde encontrarme: [Epyros](http://epyros.com/)

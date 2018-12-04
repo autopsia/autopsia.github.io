@@ -1,6 +1,6 @@
 url: http://sectordefectuoso.com
 title: Sector Defectuoso
-subtitle: ""
+subtitle: "0 bytes en sectores defectuosos"
 description: ""
 lang: es
 
@@ -15,6 +15,10 @@ plugins:
 paginate: 5
 paginate_path: /pagina/:num/
 disqus_shortname: sectordefectuoso
+
+google_analytics: UA-130344597-1
+category_page: /categorias/
+tag_page: /etiquetas/
 
 collections:
   microblog:

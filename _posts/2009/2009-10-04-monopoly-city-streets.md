@@ -7,18 +7,18 @@ layout: post
 guid: http://sectordefectuoso.com/?p=834
 permalink: /monopoly-city-streets/
 categories:
-  - Computador
-  - Internet
+  - Juegos
 tags:
-  - MMO
+  - Internet
+  - PC
 ---
-![Monopoly City Streets](/images/2009/10/monopoly.jpg){:.center}
+![Monopoly City Streets](/assets/images/2009/10/monopoly.jpg){:.center}
 
 Es un juego de la franquicia _Monopoly_, usa los mapas del _Google Maps_ como tablero, en el puedes comprar o vender las principales calles del Mundo. Se juega directamente del navegador de Internet. El objetivo: ¿Monopolio tiene objetivo?, será el de comprar todo lo comprable llevando a la bancarrota a los demás.
 
 <!--more-->
 
-![Servidores Saturados](/images/2009/10/monopolyglobo.gif "¿Broma?"){:.right}
+![Servidores Saturados](/assets/images/2009/10/monopolyglobo.gif "¿Broma?"){:.right}
 
 Hace ya un mes el juego se estreno, ya que me gusta el juego en tablero de mesa decidí darle una oportunidad, entre a su página, afortunada entre los idiomas disponibles estaba el español, el juego te recomienda que empieces por las calles de tu país.
 

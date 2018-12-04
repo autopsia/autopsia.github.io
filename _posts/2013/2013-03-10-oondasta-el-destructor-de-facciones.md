@@ -7,13 +7,11 @@ layout: post
 guid: http://sectordefectuoso.com/?p=62
 permalink: /oondasta-el-destructor-de-facciones/
 categories:
-  - World of Warcraft
+  - Juegos
 tags:
-  - Drakkari-US
-  - raptor
-  - world boss
+  - WoW
 ---
-![Oondasta](/images/2013/03/oondasta.png "Millones de años de evolución versus mi puño"){:.center}
+![Oondasta](/assets/images/2013/03/oondasta.png "Millones de años de evolución versus mi puño"){:.center}
 
 Hace unos días se liberó el parche 5.2, teniendo así nuestra dosis de misiones diarias, antagonistas nuevos y no tan nuevos, nuevos exóticos lugares, flagrantes batallas, pero sobre todo misiones diarias.
 
@@ -29,6 +27,6 @@ Se dice que el jefe estaba diseñado para ser derrotado por un grupo de cuarenta
 
 Comenzamos llevando a Oondasta al cementerio, para tener una resurrección rápida, al inicio la batalla comenzó bien no hubo muchas bajas pero a la mitad del encuentro ya la gran mayoría había fenecido y pero continuaban reviviendo y a duras penas se hacia daño, yo desairado por mis continuas muertes había cesado mis acciones y me dedique solo a observar, pero los demás jugadores aún seguían en combate, poco a poco la vida del colosal reptil fue agotándose  y así logramos lo que creíamos imposible, luego de aproximadamente tres horas, Oongasta cayó con 36 acumulaciones de _Growing Fury_, y todos gritaron por la victoria.
 
-![Give me epics!](/images/2013/03/oondastadead.gif){:.center}
+![Give me epics!](/assets/images/2013/03/oondastadead.gif){:.center}
 
 Felicidades a los compañeros de Drakkari-US y una última reflexión "No importa que tan difícil sea algo, tú sigue reviviendo".

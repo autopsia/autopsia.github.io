@@ -9,11 +9,10 @@ permalink: /el-triste-final-de-los-rpg/
 categories:
   - Tira Defectuosa
 tags:
-  - Action-RPG
-  - Blizzard
+  - ARPG
   - Diablo
 ---
-![#001: El triste final de los RPG](/images/2009/09/001.jpg){:.center}
+![#001: El triste final de los RPG](/assets/images/2009/09/001.jpg){:.center}
 
 Para hacer el artículo del [Rey Leoric](http://sectordefectuoso.com/articulos/leoric-el-rey-esqueleto/) volví a jugar Diablo y recordé esos finales que te dejan un sabor amargo en la boca, en los que tienes todos esos tremendos _items_ y elevado _nivel_, te enfrentas al último _boss_, y ves como todo tu esfuerzo ha sido en vano.
 

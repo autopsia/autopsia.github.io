@@ -7,11 +7,12 @@ layout: post
 guid: http://sectordefectuoso.com/?p=1019
 permalink: /me-pregunto-que-sucedera-en-tales-of-monkey-island/
 categories:
-  - Videos
+  - Juegos
 tags:
   - Aventura Gráfica
+  - Video
 ---
-![Me pregunto que pasará en Tales of Monkey Island](/images/2009/10/tomi.jpg){:.center}
+![Me pregunto que pasará en Tales of Monkey Island](/assets/images/2009/10/tomi.jpg){:.center}
 
 Son unas animaciones flash (_I Wonder What Happens?_ en inglés) que publican los chicos de **Tell Tale Games**, **especulando** sobre que sucederá en el próximo capítulo de "**Tales of Monkey Island**". Aquí están en formato video **Youtube** (ya que los flash cargan automáticamente a la vez), veamos que le depara el futuro a **Guybrush Treepwood**, gran pesca... pirata, gran pirata.
 

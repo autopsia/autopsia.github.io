@@ -7,17 +7,12 @@ layout: post
 guid: http://sectordefectuoso.com/?p=116
 permalink: /pokemon-tcg-pre-release-4-sun-and-moon-guardians-rising/
 categories:
-  - Aficiones
-  - Anécdotas
+  - Personal
+tags:
   - Pokémon
   - TCG
-tags:
-  - Guardians Rising
-  - Pokémon TCG
-  - Pre-Release
-  - Sun and Moon
 ---
-![Promos para Guardians Rising](/images/2017/05/sm02-prerelease.jpg){:.center}
+![Promos para Guardians Rising](/assets/images/2017/05/sm02-prerelease.jpg){:.center}
 
 Comencé a coleccionar estas cartas en mi infancia, perdiéndolas todas ellas para mi pena. Recientemente, como quien dice dos años atrás, cogí nuevamente esta afición al encontrar una carta arrugada adentro de un sofá viejo, pero en fin, esa es historia para una futura entrada.
 
@@ -31,7 +26,7 @@ Este es el único evento de este tipo al que asisto, se realiza cada 3 o 4 meses
 
 ### Mi cuarto Pre-Release
 
-![Caja Pre-Release Sun and Moon Guardians Rising](/images/2017/05/sm2-prerelease-box.jpg "Tapu Lele MVP"){:.right height="400px"}
+![Caja Pre-Release Sun and Moon Guardians Rising](/assets/images/2017/05/sm2-prerelease-box.jpg "Tapu Lele MVP"){:.right height="400px"}
 
 Soy el último en llegar a la tienda de hobbys, algo tarde para la inscripción pero temprano para el torneo, alrededor de 8 personas están sentadas en 2 mesas la mayoría adultos, como siempre sucede las veces que he ido ese local, aunque hay menos gente de lo usual. Me dirijo a la caja y me inscribo y me siento a esperar el momento para abrir los paquetes mientras oigo a la gente hablar, algunos ya tienen en su mente que cartas quiere de set y Tapu Lele esta entre las mas deseadas, y comienzo a pensar que cualidades tendrá para ser tan solicitada.
 
@@ -49,12 +44,12 @@ Cruza por mi mente la idea de usar Tapu Lele GX y 39 energias, la idea no parec�
 
 Al final me decido por usar mis pokémon tierra, descarto a Gligar y Gliscor y añado a Machop por hacer 50 de daño por 2 energías, agrego algunos entrenadores y termino llenando el espacio con energías lucha, decido incluir a Mimikyu por la posibilidad de robar 2 cartas para encontrar a Tapu Lele lo mas pronto posible, adiciono algunas energías psíquicas por si tengo que usar sus ataques que las usan.
 
-![Mazo para mi cuarto Pre-Release](/images/2017/05/prerelease4-mazo.jpg){:.center}
+![Mazo para mi cuarto Pre-Release](/assets/images/2017/05/prerelease4-mazo.jpg){:.center}
 
 Al final mi mazo esta listo:
 
   * 2x Hau
-  * 1x Proffesor Kukui
+  * 1x Professor Kukui
   * 1x Lillie
   * 1x Altar of the Moone
   * 1x Timer Ball

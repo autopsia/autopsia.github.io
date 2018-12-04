@@ -10,7 +10,6 @@ categories:
   - Personal
 tags:
   - DotA
-  - Epyros
 ---
 Hoy me puse a buscar información de un blog que tuve hace más de dos años, en _archive.org_ encontré la lista de entradas escritas ahí, siendo esta la que más recuerdos me trajo, cuando aún no había jugado DotA y comentaba sobre lo poco que había visto:
 

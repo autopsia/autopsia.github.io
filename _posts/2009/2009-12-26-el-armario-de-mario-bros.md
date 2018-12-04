@@ -8,11 +8,8 @@ guid: http://sectordefectuoso.com/?p=1427
 permalink: /el-armario-de-mario-bros/
 categories:
   - Humor
-tags:
-  - Clásicos
-  - Mario Bros
 ---
-![El Armario de Mario Bros](/images/2009/12/mario.jpg "Quizás si elijo la capa pueda llevarme el traje blanco conmigo."){:.center}
+![El Armario de Mario Bros](/assets/images/2009/12/mario.jpg "Quizás si elijo la capa pueda llevarme el traje blanco conmigo."){:.center}
 
 El personaje más memorable del mundo de los videojuegos nos muestra su armario y la tarea del dia a dia de escoger un atuendo para ir a rescatar a la princesa, aunque a veces tenga que tomar &#8220;prestado&#8221; la vestimenta de los enemigos. Reconozco solo algunos como el traje rana, el mapache y la bota de Super Mario 3, el traje de Dr Mario y hasta la gorra del MetalMario.
 

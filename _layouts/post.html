@@ -7,12 +7,14 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%d/%m/%Y • %H:%M" -%}
-        {{ page.date | date: date_format }}
+        <span class="icon">{% include icon-date.svg %}</span>
+        {{ page.date | date: "%d/%m/%Y" }}
+        &nbsp;<span class="icon">{% include icon-time.svg %}</span>
+        {{ page.date | date: "%H:%M" }}
       </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      &nbsp;<span class="icon">{% include icon-word.svg %}</span>
+      {{ page.content | strip_html | number_of_words }} palabras
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -24,4 +26,24 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <div class="post-meta">
+    {% if page.categories %}
+      {% for category in page.categories %}
+        {% if forloop.first == true %}
+          <span class="icon">{% include icon-category.svg %}</span>
+        {% endif %}
+        <a href="{{ site.baseurl }}{{ site.category_page }}#{{ category | slugify:'latin' }}">{{ category }}</a>
+        {%- if forloop.last == false -%}, {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% if page.tags %}
+      {% for tag in page.tags %}
+        {% if forloop.first == true %}&nbsp;
+          <span class="icon">{% include icon-tag.svg %}</span>
+        {% endif %}
+        <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify:'latin' }}">{{ tag | replace: " ","+" }}</a>
+        {%- if forloop.last == false -%},{% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
 </article>

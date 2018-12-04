@@ -4,8 +4,20 @@ layout: default
 <!-- This loops through the paginated posts -->
 
 {% for microblog in site.microblog reversed %}
-<article>
-  <h2>{{ microblog.title }}</h2>
-  <p>{{ microblog.content | markdownify }}</p>
+<article class="article-container microblog">
+  {% if microblog.title != "" %}
+    <h3>{{ microblog.title }}</h3>
+  {% endif %}
+  {{ microblog.content | markdownify }}
+  <p class="post-meta meta-micro">
+    <span class="icon">{% include icon-date.svg %}</span>
+    <time class="dt-published" datetime="{{ microblog.date | date_to_xmlschema }}" itemprop="datePublished">
+      <a href="{{ microblog.url }}">
+      {{ microblog.date | date: "%d/%m/%Y" }}
+      </a>
+        &nbsp;<span class="icon">{% include icon-time.svg %}</span>
+      {{ microblog.date | date: "%H:%M" }}
+    </time>
+  </p>
 </article>
 {% endfor %}

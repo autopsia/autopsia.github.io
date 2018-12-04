@@ -11,7 +11,7 @@ categories:
 tags:
   - Aventura Gráfica
 ---
-![#002: Cuando los Sueños chocan con la Realidad](/images/2009/10/002.jpg){:.center}
+![#002: Cuando los Sueños chocan con la Realidad](/assets/images/2009/10/002.jpg){:.center}
 
 ¿Quién en algún momento no se ha puesto a pensar en crear su propio videojuego?. Pocos son los que buscan información relacionada, mucho menos los que se aventuran a hacerlo y casi ninguno los que terminan.
 

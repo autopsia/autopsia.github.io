@@ -7,18 +7,19 @@ layout: post
 guid: http://sectordefectuoso.com/?p=720
 permalink: /el-profesor-layton-y-la-caja-de-pandora/
 categories:
-  - Nintendo DS
+  - Juegos
   - Vistazos
 tags:
   - Aventura Gráfica
   - Puzzle
+  - NDS
 ---
-![El Profesor Layton](/images/2009/09/layton2.jpg){:.left}
+![El Profesor Layton](/assets/images/2009/09/layton2.jpg){:.left}
 La segunda parte del Profesor Layton ya disponible **totalmente en Castellano**, textos, voces y cinemáticas. En esta como en la anterior entrega ayudaremos al profesor **Hershel Layton** quien junto a su aprendiz **Luke** investigan, tras la llegada de una carta del mentor del Layton, el **Dr. Andrew Schrader** quien dice tener en sus manos la **Caja Elísea**, conocida también como la **caja de Pandora**, ya que acaba a los que se atreven a abrirla, mencionando también su curiosidad por **ver su contenido**, Layton tiene un mal presentimiento y se dirige a la casa de su amigo.
 
 <!--more-->
 
-![Puzzle Layton #008](/images/2009/09/puzzle.png){:.right}
+![Puzzle Layton #008](/assets/images/2009/09/puzzle.png){:.right}
 
 El método del juego es el mismo de la anterior entrega, se te presentan _puzzles_, si tienes dificultad en resolverlo puedes usar las _pistas_, tienes 3 de ellas para cada _puzzle_, cada pista cuesta 1 moneda las cuales están escondidas en los mapas del juego, cuando hallas resuelto correctamente el _puzzle_ se te otorgan _picarats_, que son el _score_ del juego, estos disminuyen con cada respuesta errada, además mientras más _picarats_ se otorguen por un _puzzle_ mayor será su dificultad.
 

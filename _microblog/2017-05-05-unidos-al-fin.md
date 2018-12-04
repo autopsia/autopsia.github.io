@@ -11,4 +11,4 @@ El antiguo sector defectuoso y el nuevo al fin se unieron, llevaba mucho tiempo 
 
 Este es el último diseño que vio el antiguo sector defectuoso:
 
-![Sector Defectuoso 2010](/images/2017/05/2010sectordefectuoso.png){:.center}
+![Sector Defectuoso 2010](/assets/images/2017/05/2010sectordefectuoso.png){:.center}

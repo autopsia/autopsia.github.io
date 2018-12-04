@@ -11,7 +11,7 @@ categories:
 tags:
   - Pixel-Art
 ---
-![#003: Si la vida fuera un videojuego](/images/2009/10/003.png){:.center}
+![#003: Si la vida fuera un videojuego](/assets/images/2009/10/003.png){:.center}
 
 La tercera Tira Defectuosa (no creí llegar a tal numero), pues si la verdad a veces me da flojera escribir algo y me pongo hacer otra cosa, si la vida fuera un videojuego quien no quisiera tener un botón reset, o intentarlo hasta conseguirlo.
 

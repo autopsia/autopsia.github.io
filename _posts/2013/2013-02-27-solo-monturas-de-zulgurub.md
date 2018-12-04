@@ -7,11 +7,11 @@ layout: post
 guid: http://sectordefectuoso.com/?p=36
 permalink: /solo-monturas-de-zulgurub/
 categories:
-  - Guia
+  - Juegos
 tags:
-  - World of Warcraft
+  - WoW
 ---
-![Trolls to da powa.](/images/2013/02/zulgurub.png "La exótica y hostil Zul'Gurub."){:.center}
+![Trolls to da powa.](/assets/images/2013/02/zulgurub.png "La exótica y hostil Zul'Gurub."){:.center}
 
 Esta guía pretende ser una directriz para el _farmeo_ de las monturas de Mandokir y Kilnara desde el punto de vista de un cazador supervivencia, de hallar estrategias para las demás clases las expondré en esta misma entrada.
 
@@ -25,7 +25,7 @@ Recomiendo especialmente tener cuidado de los _[Gurubashi Bloodrager](http://es.
 
 ### Bloodlord Mandokir (Señor Sangriento Mandokir)
 
-![Raptor Razzashi Acorazado](/images/2013/02/raptorrazzashi.png "Raptor Razzashi Acorazado"){:.right}
+![Raptor Razzashi Acorazado](/assets/images/2013/02/raptorrazzashi.png "Raptor Razzashi Acorazado"){:.right}
 
 Al principio de la expansión intenté vencer a este jefe sin éxito, la dificultad esta en sobrevivir o mantenerlo en combate mientras esperamos ser resucitados por los espíritus, de otro modo la batalla finalizaría. Detallo las principales habilidades ofensivas que tiene:
 
@@ -46,7 +46,7 @@ Si tienes suerte, luego de matarlo, podrás despojar las **[riendas del Raptor R
 
 ### High Priestess Kilnara (Suma sacerdotisa Kilnara)
 
-![Pantera Zulian Presta](/images/2013/02/panterazulian.png "Pantera Zulian Presta"){:.right}
+![Pantera Zulian Presta](/assets/images/2013/02/panterazulian.png "Pantera Zulian Presta"){:.right}
 
 Kilnara no representa mayor reto, se trata de mantener distancia de ella para evitar el daño mágico que ocasiona, evadir las olas que conjura y matar primero a los tigres que se hayan durmiendo antes de que llegue al 50% de vida, como alternativa siendo cazador, puedes fingir muerte antes cuando todos los tigres van hacia tí para que vuevan a sus posiciones, luego de éllo la pelea no tiene mayores complicaciones.
 

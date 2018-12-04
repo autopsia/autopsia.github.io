@@ -7,16 +7,13 @@ layout: post
 guid: http://sectordefectuoso.com/?p=1580
 permalink: /pikachu-con-la-gorra-de-ash-y-formas-olvidadas/
 categories:
-  - 3DS
-  - Pokémon
+  - Juegos
 tags:
   - Eventos
-  - HGSS
-  - ORAS
-  - Pikachu
-  - Sun and Moon
+  - Pokémon
+  - 3DS
 ---
-![Pikashu](/images/2017/09/pikashu.jpg){:.center}
+![Pikashu](/assets/images/2017/09/pikashu.jpg){:.center}
 
 Desde esta semana y por cinco otras se podrá recibir a Pikachu usando las diferentes gorras usadas por Ash desde Kanto a Alola usando el código **PIKACHU20** en el Regalo Misterioso en las versiones Sun&Moon, solo se podrá usar el código **una vez por juego** por lo que tendrás que elegir bien cuál gorra es tu preferida, aunque si tienes una versión extra siempre puedes reiniciar tu juego para recibir las demás usando el mismo código en diferentes semanas.
 
@@ -27,8 +24,9 @@ Este evento me hizo pensar en algunas de las anteriores formas de Pikachu especi
 
 ### Ash's Hat Pikachu
 
-![Ash's Hat Pikachu](/images/2017/09/ashs-hat-pikachu.png){.center}
-    Original &#8211; Hoenn &#8211; Sinnoh &#8211; Unova &#8211; Kalos &#8211; Alola
+![Ash's Hat Pikachu](/assets/images/2017/09/ashs-hat-pikachu.png){:.center}
+Original &#8211; Hoenn &#8211; Sinnoh &#8211; Unova &#8211; Kalos &#8211; Alola
+{:.center}
 
 Conmemorando la venteaba pelicula de pokemon **I choose you!** o **¡Yo te elijo!** se ha liberado este nuevo evento, este primer pikachu posee la gorra que Ash uso en Kanto y Johto, estando las siguientes formas disponibles en las siguientes semanas, una semana cada una.
 
@@ -50,7 +48,7 @@ Todos estos pikachu poseen una naturaleza **Hardy**, la cual es neutral lastimos
 
 #### Curiosidades
 
-![20th Movie Ash's Hat Pikachu](/images/2017/09/20th-movie-pikachu.png){:.right}
+![20th Movie Ash's Hat Pikachu](/assets/images/2017/09/20th-movie-pikachu.png){:.right}
 
   * La única manera de conseguir un **Pikachu nivel 1** de forma legítima.
   * A pesar de ser un evento, viene en una **PokéBall** en vez de una **Cherish Ball** como se acostumbra.
@@ -59,11 +57,11 @@ Todos estos pikachu poseen una naturaleza **Hardy**, la cual es neutral lastimos
   * Fue posible encontrar este pikachu en **Pokemon GO**, además de incubar a Pichu y evolucionar a Raichu con esta misma gorra.
   * Este pikachu fue lanzada en el juego **Pokémon Shuffle** hace varios meses.
 
-![Ash's Hat Pikachu Shuffle](/images/2017/09/ashs-hat-pikachu-shuffle.png)
+![Ash's Hat Pikachu Shuffle](/assets/images/2017/09/ashs-hat-pikachu-shuffle.png)
 
 ### Cosplay Pikachu
 
-![Cosplay Pikachu](/images/2017/09/cosplay-pikachu.png){:.center}
+![Cosplay Pikachu](/assets/images/2017/09/cosplay-pikachu.png){:.center}
     Rock Star &#8211; Belle &#8211; Pop Star &#8211; Ph. D &#8211; Libre
 
 Con el remake de _Ruby&Sapphire_ (Rubí&Zafiro) **Omega Ruby y Alpha Sapphire,** volvieron los **concursos**, un modo de juego en donde los participantes compiten para ver quien es el **más** en cinco características siendo evaluados por un jurado, para conmemorar esto se introdujo **cinco especiales Pikachus** cada uno maestro en cada tipo de concurso, por lo que no fue un evento, sino un regalo en el juego.
@@ -85,7 +83,7 @@ Estos cinco Pikachus eran **hembra**, contaban además de trajes únicos con mov
 
 ### Spiky-Eared Pichu
 
-![Spiky Eared Pichu](/images/2017/09/spiky-eared-pichu.png){:.right}
+![Spiky Eared Pichu](/assets/images/2017/09/spiky-eared-pichu.png){:.right}
 
 No es un Pikachu porque al no poder evolucionar, pero se incluye por estar atrapado en su juego de origen HeartGold o SoulSilver, no puede siquiera ser intercambiado.
 

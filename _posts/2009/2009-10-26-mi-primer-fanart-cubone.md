@@ -7,12 +7,11 @@ layout: post
 guid: http://sectordefectuoso.com/?p=1008
 permalink: /mi-primer-fanart-cubone/
 categories:
-  - FanArt
+  - Personal
 tags:
-  - Epyros
   - Pokémon
 ---
-![Cubone FanArt](/images/2009/10/cubone.jpg){:.center}
+![Cubone FanArt](/assets/images/2009/10/cubone.jpg){:.center}
 
 Y aquí se viene **la parte personal** del blog, para mí personal no es que solo yo publique en la página, sino que pueda **poner cosas mías** no solo limitarme a buscar la información en Internet, decidí crear esta sección para no descuidar el sitio, como en mis estudios **me piden hacer distintos dibujos** de distintas maneras, decidí hacerlos sobre **personajes de videojuegos** así mató dos pajaros de un tiro.
 

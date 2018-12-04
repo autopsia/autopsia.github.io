@@ -11,7 +11,7 @@ categories:
 tags:
   - WarCraft
 ---
-![Botones Warcraft](/images/2009/08/btn.gif){:.center}
+![Botones Warcraft](/assets/images/2009/08/btn.gif){:.center}
 
 Una muestra de como convertir una imagen 64x64 en botones de acción de Warcraft, en el ejemplo intente crear los típicos botones RSS al estilo del juego (es la primera vez que lo hago).
 

@@ -7,9 +7,9 @@ layout: post
 guid: http://sectordefectuoso.com/?p=1435
 permalink: /el-nuevo-logo-de-sector-defectuoso/
 categories:
-  - General
+  - Personal
 ---
-![Logo Completo Sector Defectuoso](/images/2010/01/logosd.jpg){:.left}
+![Logo Completo Sector Defectuoso](/assets/images/2010/01/logosd.jpg){:.left}
 El **logo** permite identificar rápidamente cualquier cosa, las marcas importantes lo tienen, ¿porque yo no?, dicho esto puedo con orgullo presentar lo que es el nuevo logo de Sector Defectuoso.
 
 El isotipo por si no se capta es una cara con una sonrisa malvada, me parece que mi inspiración fue la Máscara del Fantasma de la Opera de V y la chapa del Comediante de Watchmen, debo agregar también que me influencio el símbolo de Mask DeMasque del juego Phoenix Wright: Trials And Tribulations.
