@@ -6,6 +6,7 @@ author: autopsia
 layout: post
 guid: http://sectordefectuoso.com/?p=1302
 permalink: /pokemon-y-yo/
+comments: true
 categories:
   - Juegos
   - Vistazos

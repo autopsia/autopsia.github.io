@@ -1,0 +1,19 @@
+---
+layout: page
+permalink: /archivo/
+title: Archivo
+---
+<div id="archives">
+{% for post in site.posts %}
+  {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if currentyear != year %}
+     <h3 id="{{ currentyear | slugify:'latin' }}">{{ currentyear }}</h3>
+    {% capture year %}{{currentyear}}{% endcapture %}
+  {% endif %}
+  <article class="archive-item">
+    <ul>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span class="post-meta"> &mdash; {{ post.date | date: "%d/%m" }}</span></li>
+    </ul>
+  </article>
+{% endfor %}
+</div>

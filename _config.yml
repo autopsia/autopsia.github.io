@@ -1,4 +1,4 @@
-url: http://sectordefectuoso.com
+url: https://sectordefectuoso.com
 title: Sector Defectuoso
 subtitle: "0 bytes en sectores defectuosos"
 description: ""
@@ -14,9 +14,12 @@ plugins:
 
 paginate: 5
 paginate_path: /pagina/:num/
-disqus_shortname: sectordefectuoso
+disqus:
+  shortname: sectordefectuoso
 
 google_analytics: UA-130344597-1
+
+archive_page: /archivo/
 category_page: /categorias/
 tag_page: /etiquetas/
 
