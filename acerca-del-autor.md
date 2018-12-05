@@ -5,6 +5,7 @@ title: Acerca del autor
 date: 2013-02-11T02:31:00+00:00
 author: autopsia
 layout: page
+permalink: /acerca-del-autor/
 guid: http://sectordefectuoso.com/?page_id=24
 ---
 Joven entusiasmado con los espacios digitales, tratando de mantener uno que pueda llamar suyo, éste es el resultado.

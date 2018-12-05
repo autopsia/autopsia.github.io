@@ -4,6 +4,7 @@ title: Acerca del sitio
 date: 2013-02-11T02:03:40+00:00
 author: autopsia
 layout: page
+permalink: /acerca-del-sitio/
 guid: http://sectordefectuoso.com/?page_id=18
 ---
 Bitácora personal en vías de desarrollo.
