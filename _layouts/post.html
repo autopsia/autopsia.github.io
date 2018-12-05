@@ -22,10 +22,6 @@ comments: true
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
   <div class="post-meta">
     {% if page.categories %}
@@ -47,4 +43,10 @@ comments: true
       {% endfor %}
     {% endif %}
   </div>
+  {%- if site.disqus.shortname -%}
+  <div class="post">
+    <h3>Comentarios</h3>
+    {%- include disqus_comments.html -%}
+  </div>
+  {%- endif -%}
 </article>
