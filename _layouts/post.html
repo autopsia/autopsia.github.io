@@ -43,10 +43,10 @@ comments: true
       {% endfor %}
     {% endif %}
   </div>
-  {%- if site.disqus.shortname -%}
-  <div class="post">
-    <h3>Comentarios</h3>
-    {%- include disqus_comments.html -%}
-  </div>
-  {%- endif -%}
 </article>
+{%- if site.disqus.shortname -%}
+<div class="post">
+  <h3>Comentarios</h3>
+  {%- include disqus_comments.html -%}
+</div>
+{%- endif -%}
