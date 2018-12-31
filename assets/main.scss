@@ -5,6 +5,10 @@
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
+*::selection{
+  background-color: #a5132a;
+  color: #fff;
+}
 img.center{
   display: block;
   margin: 0 auto;
@@ -33,9 +37,7 @@ img.right{
   padding: 20px;
   max-width: 640px;
   margin: 0 0 20px 0;
-  border-right: 3px solid #444;
-  border-bottom: 3px solid #444;
-  border-radius: 0;
+  box-shadow: 4px 4px 0 0 #444;
 }
 .pagination-nav{
   background: #fff;
@@ -45,9 +47,9 @@ img.right{
 .site-header{
   border: 0;
 }
-.site-title img{
+.site-header img{
   display: block;
-  margin: 0 auto;
+  margin: 0px auto 20px auto;
 }
 body{
   background: #eee url("/assets/images/fondo.gif");
@@ -112,4 +114,7 @@ h2{
 }
 ul{
   list-style-type: square;
+}
+blockquote{
+  font-size: 1em;
 }

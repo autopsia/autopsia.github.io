@@ -62,7 +62,8 @@ Todos estos pikachu poseen una naturaleza **Hardy**, la cual es neutral lastimos
 ### Cosplay Pikachu
 
 ![Cosplay Pikachu](/assets/images/2017/09/cosplay-pikachu.png){:.center}
-    Rock Star &#8211; Belle &#8211; Pop Star &#8211; Ph. D &#8211; Libre
+Rock Star &#8211; Belle &#8211; Pop Star &#8211; Ph. D &#8211; Libre
+{:.center}
 
 Con el remake de _Ruby&Sapphire_ (Rubí&Zafiro) **Omega Ruby y Alpha Sapphire,** volvieron los **concursos**, un modo de juego en donde los participantes compiten para ver quien es el **más** en cinco características siendo evaluados por un jurado, para conmemorar esto se introdujo **cinco especiales Pikachus** cada uno maestro en cada tipo de concurso, por lo que no fue un evento, sino un regalo en el juego.
 

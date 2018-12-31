@@ -22,6 +22,7 @@ tags:
 ## AGD Interactive
   _"[Anonymous Game Developers](http://www.agdinteractive.com/)"_, un grupo de desarrolladores que se dedica a **revivir viejas aventuras**, tienen además entre sus juegos remakeados "[Quest for Glory II](http://www.agdinteractive.com/games/qfg2/)" otro titulo de Sierra que combina _rol_ con _aventura_, además de tener una aventura gráfica de pago: "[Al Emmo](http://www.alemmo.com/)".
 
+
 ###  King Quest I
 
   ![King Quest I](/assets/images/2009/09/kq1.png){:.left}
@@ -35,14 +36,10 @@ tags:
   La historia cuenta como el Rey del pueblo de _Daventry_ envía a _Sir Graham_ en **busca de los objetos mágicos** del reino, si lo logra podrá ser el **sucesor del Rey**.
 
 
-  Página del juego: [King Quest I](http://www.agdinteractive.com/games/kq1/)
-
-
-  [download id=&#8221;2&#8243;]
+  * Página del juego: [King Quest I](http://www.agdinteractive.com/games/kq1/)
 
 
 ### King Quest II
-
 
   ![King Quest II](/assets/images/2009/09/kq2.png){:.left}
 
@@ -52,10 +49,7 @@ tags:
   En cuando a la historia ahora **ya convertido en Rey**, Graham se embarca en la **busqueda de la hermosa mujer** de su visión.
 
 
-  Página del juego: King Quest II](http://www.agdinteractive.com/games/kq2/)
-
-
-  [download id=&#8221;3&#8243;]
+  * Página del juego: [King Quest II](http://www.agdinteractive.com/games/kq2/)
 
 
 ## Infamous Adventures
@@ -71,9 +65,7 @@ tags:
 
   Tiene los **textos y voces en inglés**, música original para el juego.
 
-  Página del juego: [King Quest III](http://www.infamous-adventures.com/kq3/index.php).
-
-  [download id=&#8221;6&#8243;]
+  * Página del juego: [King Quest III](http://www.infamous-adventures.com/kq3/index.php).
 
 ## LucasFan Games
 
@@ -85,7 +77,7 @@ tags:
 
   Es la versión con los gráficos en 256 colores de la primera Aventura Gráfica de Lucas Art, (ex LucasFilm Games), añadiéndole también un poco del estilo de su sucesor "[Day of the Tentacle](http://es.wikipedia.org/wiki/Day_of_the_Tentacle)", con subtítulos en español, plantean la misma historia: **reúne** dos compañeros más, **irrumpe** en la mansión del científico loco, **usa** de manera hábil los objetos que encuentres en el lugar, **salva** a la chica y de pasada al mundo.
 
-  [download id=&#8221;4&#8243;]
+  *  Página del juego: [Maniac Mansion Deluxe](http://www.adventuregamestudio.co.uk/site/games/game/401/)
 
 ## Otros
 
@@ -98,14 +90,9 @@ tags:
 
   En la historia se narra el misterio de una **serie de asesinatos**, el cual _Fray Guillermo_ (y el novicio _Adso_) debe investigar y **descubrir al culpable**, el juego transcurre en **7 días** en los que debe también participar en las actividades regulares de un monje franciscano.
 
+  * Página del juego: [Abadía del Crímen](http://www.abadiadelcrimen.com/)
 
-  Página del juego: [Abadía del Crímen](http://www.abadiadelcrimen.com/)
-
-
-  [download id=&#8221;5&#8243;]
-
-
-  Además hay muchos proyectos de fans en cuanto a este juego como [El enigma de la abadía](http://www.elenigmadelaabadia.com/)"; otro remake con gráficos en 3D.
+  Además hay muchos proyectos de fans en cuanto a este juego como "[El enigma de la abadía](http://www.elenigmadelaabadia.com/)"; otro remake con gráficos en 3D.
 
 
 ### Notas

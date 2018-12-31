@@ -33,10 +33,10 @@ Aunque este juego esta hecho para competir contra jugadores humanos, también **
 
 Para el día de hoy ya esta disponible en descarga la última versión de DotA (6.60), que se vio muy cambiada con respecto a la antigua versión (6.59d).
 
-> Página Oficial | [PlayDota.com](http://www.playdota.com/)
+* Página Oficial: [PlayDota.com](http://www.playdota.com/)
 
-> Descarga | [GetDota.com](http://www.getdota.com/)
+* Descarga: [GetDota.com](http://www.getdota.com/)
 
-> Descarga AI | [GetDota.com](http://www.getdota.com/ai_maps)
+* Descarga AI: [GetDota.com](http://www.getdota.com/ai_maps)
 
 [](http://www.getdota.com/ai_maps)

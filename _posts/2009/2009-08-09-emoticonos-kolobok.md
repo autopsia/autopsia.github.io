@@ -11,7 +11,7 @@ categories:
 tags:
   - Descargas
 ---
-![Emoticonos Kolobok](/images/2009/08/kolobok.gif){:.center}
+![Emoticonos Kolobok](/assets/images/2009/08/kolobok.gif){:.center}
 
 Desde Rusia llegan los omnipresentes **emoticonos de un estilo llamativo y simple**, diseñados para foros, programas de mensajería, etc.
 

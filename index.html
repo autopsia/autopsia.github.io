@@ -14,7 +14,7 @@ layout: default
         <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
           <span class="icon">{% include icon-date.svg %}</span>
           {%- assign date_format = site.minima.date_format | default: "%d/%m/%Y" -%}
-          {{ post.date | date: date_format }}
+          <span title="{{ post.date | date_to_rfc822 }}">{{ post.date | date: date_format }}</span>
         </time>
         {% if post.categories %}
           {% for category in post.categories %}
@@ -30,7 +30,7 @@ layout: default
             {% if forloop.first == true %}&nbsp;
               <span class="icon">{% include icon-tag.svg %}</span>
             {% endif %}
-            <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify:'latin' }}">{{ tag | replace: " ","+" }}</a>
+            <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify:'latin' }}">{{ tag }}</a>
             {%- if forloop.last == false -%},{% endif %}
           {% endfor %}
         {% endif %}
@@ -38,7 +38,7 @@ layout: default
     </div>
     {{ post.content | split:"<!--more-->" | first }}
     {% if post.content contains '<!--more-->' %}
-      <a href="{{ post.url }}"><strong>Leer Más</strong></a>
+      <a class="read-more" href="{{ post.url }}"><strong>Leer Más</strong></a>
     {% endif %}
   </article>
 {% endfor %}

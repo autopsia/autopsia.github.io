@@ -12,14 +12,18 @@ Bitácora personal en vías de desarrollo.
 Algunos datos:
 
   * Originalmente inaugurada el 5 de mayo del 2009.
-  * Oficialmente reabierta el 28 de enero del 2013
-  * Re-reabierta el 23 de abril del 2017
+  * Oficialmente reabierta el 27 de enero del 2013.
+  * Re-reabierta el 23 de abril del 2017.
 
-Creada en Blogger en un principio y migrada a un servidor privado con WordPress el 1 de Agosto del 2009 (sectordefectuoso.blogspot.com).
+Creada en Blogger en un principio y migrada a un servidor gratuito con WordPress el 1 de Agosto del 2009 (sectordefectuoso.blogspot.com).
 
 Dominio comprado el 18 de Agosto del 2009.
 
-Me gustaría citar un párrafo de la [primera entrada de este sitio](http://sectordefectuoso.com/?p=1 "Primer escrito") para subrayar mis intenciones con esta web.
+Se trato de empezar de cero el 27 de Enero del 2013 hasta la unión de ambas versiones en el octavo aniversario del sitio el 5 de mayo del 2017.
+
+Migrado a Jekyll el 25 de Noviembre del 2018.
+
+Me gustaría citar un párrafo de la [primera entrada de la segunda versión del sitio](/primer-escrito/ "Primer escrito") para subrayar mis intenciones con esta web.
 
 > No espero, visitante, que encuentres mis entradas cautivantes o mucho menos bellamente expuestas, aunque así lo pretenda y sea ésa mi finalidad, después de todo, este es un …
 >

@@ -11,8 +11,8 @@ categories:
 tags:
   - Internet
 ---
-![Personalidad de algunas Web](/images/2009/09/personalidadweb.png){:.center}
+![Personalidad de algunas Web](/assets/images/2009/09/personalidadweb.png){:.center}
 
 Me llamo la atención esta imagen en la que se le asigna un tipo de personalidad a algunos sitios populares del Internet, la de **Google** es la que encuentro más _realista_, mientras que la de **Twitter** la encuentro más _desencajante_.
 
-Visto en | [arturogoga](http://www.arturogoga.com/2009/08/18/si-los-websites-fueran-personas/)
+* Visto en [arturogoga](http://www.arturogoga.com/2009/08/18/si-los-websites-fueran-personas/)
