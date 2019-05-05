@@ -17,7 +17,8 @@ tags:
 ![Fan Remakes de Aventuras Gráficas](/assets/images/2009/09/remakefansav640.png){:.center}
 
   Fan Remakes, traen a nuestros días aventuras de antes, remodelando estéticamente para hacerlos más &#8220;aptos&#8221; a los jugadores de hoy. Esta es una lista de cinco juegos que han sido _remakeados_ y disponibles en descarga.
-  <!--more-->
+
+<!--more-->
 
 ## AGD Interactive
   _"[Anonymous Game Developers](http://www.agdinteractive.com/)"_, un grupo de desarrolladores que se dedica a **revivir viejas aventuras**, tienen además entre sus juegos remakeados "[Quest for Glory II](http://www.agdinteractive.com/games/qfg2/)" otro titulo de Sierra que combina _rol_ con _aventura_, además de tener una aventura gráfica de pago: "[Al Emmo](http://www.alemmo.com/)".
