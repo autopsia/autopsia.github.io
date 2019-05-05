@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¡Décimo aniversario de Sector Defectuoso!
-date: '2019-05-05 03:19:07 -0500'
+date: '2019-05-05 03:19:07 -0000'
 permalink: /decimo-aniversario-de-sector-defectuoso/
 categories:
   - Personal
