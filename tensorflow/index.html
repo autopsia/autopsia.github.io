@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <!-- Load the latest version of TensorFlow.js -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.css">
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="https://unpkg.com/@tensorflow-models/mobilenet"></script>
+    <script src="https://unpkg.com/@tensorflow-models/knn-classifier"></script>
+
+</head>
+
+<body>
+
+    <!-- Add an image that we will use to test -->
+    <!-- Load index.js after the content of the page -->
+    <div class="columns is-gapless">
+        <div class="column is-four-fifths">
+            <video autoplay playsinline muted id="webcam" width="1800px" height="1350px"></video>
+        </div>
+        <div class="column is-one-fifth">
+            <section class="hero is-primary">
+                <div class="hero-body">
+                    <div class="container">
+                        <h1 class="title">
+                            Reconocimiento de imagen desde video con TensorFlow
+                        </h1>
+                        <h2 class="subtitle">
+                            Usa los botones de abajo para asignar un un fotograma de video a el boton presionado.
+                            Las probabilidades se calcularan a travez de la informacion obtenida
+                        </h2>
+                    </div>
+                </div>
+            </section>
+            <div class="container">
+                <div class="notification">
+                    
+                    <div class="buttons has-addons is-fullwidth">
+                        <button class="button is-large is-fullwidth" id="class-a">A</button>
+                        <button class="button is-large is-fullwidth" id="class-b">B</button>
+                        <button class="button is-large is-fullwidth" id="class-c">C</button>
+                    </div>
+
+                    <div id="console"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
