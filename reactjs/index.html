@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="shortcut icon" href="favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+  <!-- Load React API -->
+  <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+  <!-- Load React DOM-->
+  <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+  <!-- Load Babel Compiler -->
+  <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+  <title>React App</title>
+</head>
+
+<body>
+    <nav class="navbar is-primary">
+        <div class="container">
+        <div class="navbar-brand">
+              <a class="navbar-item" href="#" style="font-weight:bold;">
+                Restaurante
+              </a>
+              <span class="navbar-burger burger" data-target="navMenu">
+                <span></span>
+                <span></span>
+                <span></span>
+              </span>
+            </div>
+        <div id="navMenu" class="navbar-menu">
+        <div class="navbar-end">
+                <a href="#" class="navbar-item is-active">Inicio</a>
+                <a href="#" class="navbar-item">Menu</a>
+                <a href="#" class="navbar-item">Carta</a>
+                <a href="#" class="navbar-item">Delivery</a>
+                <a href="#" class="navbar-item">Contacto</a>
+              </div>
+        </div>
+        </div>
+        </nav>
+  <div class="container">
+    
+
+        <div id="root" class=""></div>
+  <script type="text/babel" src="script.js" ></script>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <script type="text/javascript">
+      (function() {
+        var burger = document.querySelector('.burger');
+        var nav = document.querySelector('#'+burger.dataset.target);
+       
+        burger.addEventListener('click', function(){
+          burger.classList.toggle('is-active');
+          nav.classList.toggle('is-active');
+        });
+      })();
+  </script>
+</div>
+</body>
+
+</html>
