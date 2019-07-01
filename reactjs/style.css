@@ -20,16 +20,17 @@
   .category--Entrada,
   .btn-Entrada {
     background-color: rgb(255, 153, 0);
+    color: white;
   }
   
   .category--Segundo,
   .btn-Segundo {
-    background-color: rgb(0, 206, 0);
+    background-color: rgb(202, 0, 0);
     color: white;
   }
   .category--Sopa,
   .btn-Sopa {
-    background-color: rgb(0, 168, 235);
+    background-color: rgb(0, 206, 0);
     color: white;
   }
   
@@ -38,7 +39,16 @@
     background-color: rgb(211, 0, 211);
     color: white;
   }
-  
+  .category--Bebida,
+  .btn-Bebida {
+    background-color: rgb(0, 168, 235);
+    color: white;
+  }
+  .category--Todos,
+  .btn-Todos {
+    background-color: rgb(226, 226, 226);
+    color: rgb(109, 109, 109);
+  }
   .category--entertainment,
   .btn-entertainment {
     background-color: pink;
@@ -79,4 +89,9 @@
     border-radius: 10%;
     margin:0 0 0 1rem;
   }
-  
+  .xd{
+    margin-bottom: 15px;
+  }
+  .titulo{
+    font-size: 150%;
+  }
