@@ -21,47 +21,45 @@
 </head>
 
 <body>
-    <nav class="navbar is-primary">
-        <div class="container">
-        <div class="navbar-brand">
-              <a class="navbar-item" href="#" style="font-weight:bold;">
-                Restaurante
-              </a>
-              <span class="navbar-burger burger" data-target="navMenu">
-                <span></span>
-                <span></span>
-                <span></span>
-              </span>
-            </div>
-        <div id="navMenu" class="navbar-menu">
+  <nav class="navbar is-info xd">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item titulo" href="#" style="font-weight:bold;">
+          Restaurante
+        </a>
+        <span class="navbar-burger burger" data-target="navMenu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
+      </div>
+      <div id="navMenu" class="navbar-menu">
         <div class="navbar-end">
-                <a href="#" class="navbar-item is-active">Inicio</a>
-                <a href="#" class="navbar-item">Menu</a>
-                <a href="#" class="navbar-item">Carta</a>
-                <a href="#" class="navbar-item">Delivery</a>
-                <a href="#" class="navbar-item">Contacto</a>
-              </div>
+          <a href="#" class="navbar-item">Inicio</a>
+          <a href="#" class="navbar-item">Menu</a>
+          <a href="#" class="navbar-item is-active">Carta</a>
+          <a href="#" class="navbar-item">Delivery</a>
+          <a href="#" class="navbar-item">Contacto</a>
         </div>
-        </div>
-        </nav>
+      </div>
+    </div>
+  </nav>
   <div class="container">
-    
-
-        <div id="root" class=""></div>
-  <script type="text/babel" src="script.js" ></script>
-  <noscript>You need to enable JavaScript to run this app.</noscript>
-  <script type="text/javascript">
-      (function() {
+    <div id="root" class=""></div>
+    <script type="text/babel" src="script.js"></script>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <script type="text/javascript">
+      (function () {
         var burger = document.querySelector('.burger');
-        var nav = document.querySelector('#'+burger.dataset.target);
-       
-        burger.addEventListener('click', function(){
+        var nav = document.querySelector('#' + burger.dataset.target);
+
+        burger.addEventListener('click', function () {
           burger.classList.toggle('is-active');
           nav.classList.toggle('is-active');
         });
       })();
-  </script>
-</div>
+    </script>
+  </div>
 </body>
 
 </html>
