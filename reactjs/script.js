@@ -121,6 +121,12 @@ const PRODUCTS = [
   { category: "Bebida", name: "Chicha de jora" },
 ];
 
+componentDidMount(){
+fetch('http://pix.pe/servicioandroid/serviciocategorias').then(response => response.json())
+.then(PRODUCTS => this.setState({PRODUCTS}))
+.catch(e => console.log(e));
+}
+
 // get unique category items
 const uniqueItems = (x, i, a) => a.indexOf(x) === i;
 const PRODUCT_CATEGORIES = PRODUCTS.map(prod => prod.category).filter(
